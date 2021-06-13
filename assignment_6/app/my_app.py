@@ -286,9 +286,8 @@ elif option == 'All Group':
 
 period = st.slider(
     'Select a range of hours submit',
-    0,23(0,23))
+    0,23,(0,23))
 period = list(period)
-
 time_submit = submit_df['msg_time'].apply(lambda x: x.split(':')[0]).value_counts().sort_index()[period[0]:period[1]+1]
 
 sns.set_style("ticks")
