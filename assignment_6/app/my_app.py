@@ -286,7 +286,7 @@ elif option == 'All Group':
 
 period = st.slider(
     'Select a range of hours submit',
-    value=(time(00, 00), time(23, 59)))
+    value=(time(17, 00), time(16, 59)))
 period = list(period)
 start_time = period[0].hour
 end_time = period[1].hour
