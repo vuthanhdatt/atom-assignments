@@ -14,8 +14,6 @@ st.set_page_config(layout="centered",
                    page_title="DataCracy Dashboard",
                    page_icon = '💙')
 
-with open('../assignment_3/env_variable.json','r') as j:
-    json_data = json.load(j)
 
 #SLACK_BEARER_TOKEN = os.environ.get('SLACK_BEARER_TOKEN') ## Get in setting of Streamlit Share
 SLACK_BEARER_TOKEN = st.secrets["TOKEN"]
