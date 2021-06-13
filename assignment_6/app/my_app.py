@@ -286,14 +286,10 @@ elif option == 'All Group':
 
 period = st.slider(
     'Select a range of hours submit',
-    value=(time(17, 00), time(16, 59)))
+    0,23(0,23))
 period = list(period)
-start_time = period[0].hour
-end_time = period[1].hour
-if start_time >=17:
-    start_time = (start_time+7)-24
-    end_time = (end_time+7)-24
-time_submit = submit_df['msg_time'].apply(lambda x: x.split(':')[0]).value_counts().sort_index()[period[0].hour:period[1].hour+1]
+
+time_submit = submit_df['msg_time'].apply(lambda x: x.split(':')[0]).value_counts().sort_index()[period[0]:period[1]+1]
 
 sns.set_style("ticks")
 bar = plt.figure()
