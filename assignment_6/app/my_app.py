@@ -1,8 +1,6 @@
 import streamlit as st
 import json
 import requests
-import sys
-import os
 import pandas as pd
 import numpy as np
 import re
