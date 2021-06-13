@@ -1,0 +1,22 @@
+channel_id,channel_name,is_channel,creator,created_at,topics,purpose,num_members
+C01B4PVGLVB,general,True,U01BE2PR6LU,2020-09-23 17:25:03,,This is the one channel that will always include everyone. It’s a great spot for announcements and team-wide conversations.,65
+C01BYH7JHB5,contents,True,U01BE2PR6LU,2020-10-05 14:28:09,,,13
+C01CAMNCJJV,branding-design,True,U01AVDY7JET,2020-10-05 10:16:30,,,9
+C01U6P7LZ8F,atom-assignment1,True,U01BE2PR6LU,2021-04-17 14:00:04,Assigment#1 - Python Basics &amp; Spreadsheet Analysis,Where learners submit assignments and give review for others,44
+C01UL6K1C7L,atom-week1,True,U01BE2PR6LU,2021-04-17 00:44:32,TOPIC: Data Strategy. Metrics Design. Spreadsheet.,TOPIC: Data Strategy. Metrics Design. Spreadsheet.,43
+C01ULCHGN75,atom-general,True,U01BE2PR6LU,2021-04-17 00:42:20,General communication channel of ATOM,General communication channel of ATOM,25
+C020VMT58JK,topics-data-analytics,True,U01BE2PR6LU,2021-05-08 13:05:40,,,18
+C0213MNH9L6,topics-python,True,U01BE2PR6LU,2021-05-08 13:05:21,,Channel để thảo luận về Python,32
+C0213N56M2A,topics-materials,True,U01BE2PR6LU,2021-05-08 13:31:38,,,23
+C021FSDN7LJ,atom-assignment2,True,U01BE2PR6LU,2021-05-11 03:05:42,"Assigment#2 - Mailbot, API, Web Scrapping",Where learners submit assignments and give review for others,40
+C021KLB0DSB,discuss-group3,True,U01BE2PR6LU,2021-05-15 13:42:51,,Group 3 Discussion Space,13
+C021KLB90GP,discuss-group4,True,U01BE2PR6LU,2021-05-15 13:43:22,,Group 4 Discussion Space,14
+C02204B2CD6,atom-week2,True,U01BE2PR6LU,2021-05-08 08:45:22,TOPIC: Python Basics &amp; Git,Data tools (2): Github &amp; Python Basics,26
+C0220KU9399,discuss-group1,True,U01BE2PR6LU,2021-05-15 13:42:04,,Group 1 Discussion Space,11
+C0226D3LEQ4,atom-week3,True,U01BE2PR6LU,2021-05-15 09:00:45,"TOPIC: API, JSON, Mailbot, Web Scrapping",,27
+C0227A51SAY,atom-assignment3,True,U01BE2PR6LU,2021-05-16 07:39:33,,,38
+C022Q7TGRLG,discuss-group2,True,U01BE2PR6LU,2021-05-15 13:42:25,,Group 2 Discussion Space,13
+C022RRWQ6US,atom-assignment4,True,U01BE2PR6LU,2021-05-23 06:21:49,,Submisstion + Review Space Assignment#4,36
+C022Y1FUETE,atom-week4,True,U01BE2PR6LU,2021-05-23 06:33:45,,Discuss nội dung và assignment 4,17
+C023UJGMDND,atom-assignment5,True,U01BE2PR6LU,2021-05-30 08:54:00,,,32
+C0245PZUFSL,atom-week5,True,U01BE2PR6LU,2021-05-30 08:58:41,,,18

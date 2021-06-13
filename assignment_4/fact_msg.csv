@@ -1,0 +1,769 @@
+channel_id,msg_id,msg_ts,user_id,latest_reply,reply_user_count,reply_users,github_link,text,reply_user1,reply_user2
+C01U6P7LZ8F,005AD620-BD06-4123-BC42-6118DAA73BA4,2021-05-13 21:09:48.011000,U01UTGRMGEQ,2021-05-14 01:01:34.021400,4,"['U01V00P4S2V', 'U01UTGRMGEQ', 'U01UMJ451V1', 'U01V00LQ7EV']",,"Em xin chào mọi người ạ. Híc, em bị stuck ở phần bài tập 2 nên ngoi lên nhờ mọi người chỉ giáo với ạ :smiling_face_with_tear: 
+
+Cụ thể em làm tới đoạn App password và API xong, nhưng tới đoạn code từ !1s trong phần Environment Variables thì em không hiểu là mình viết đoạn này vào Google Colab hay vào đâu ạ? Em cũng thử trên Jupiter Notebook nhưng không được.
+
+File bài đọc Medium ở #Lab2 em hiện chưa tìm cách nào vào được nên bị miss mất nội dung Set-up working environment ạ.
+
+Không làm được bài nên ngứa ngáy trong mình :joy:, mong mọi người giúp đỡ ạ. Em xin cảm ơn :pray::skin-tone-2:",U01V00P4S2V,U01UTGRMGEQ
+C01U6P7LZ8F,D86A48D2-D953-4504-92BF-D9240B2549A8,2021-05-10 11:51:46.004700,U01UJ9LG5U5,2021-05-15 16:14:31.003600,2,"['U01USGKQ771', 'U01V00KHHHP']",https://github.com/danhpcv/,"Hi all,
+Mình gửi lại assignment phần 1 nhé
+Task 1: <https://docs.google.com/spreadsheets/d/1YUHbEJehnRlGHfsaqvgz3Mf0fYFMjCHgF4kz-WO2vQY/edit#gid=218077707|https://docs.google.com/spreadsheets/d/1YUHbEJehnRlGHfsaqvgz3Mf0fYFMjCHgF4kz-WO2vQY/edit#gid=218077707>
+Task 2: <https://colab.research.google.com/drive/13mN-OGyMoIeEbkdFdwl-LqWohjG5sqiN#scrollTo=exHP3hO_khL1|https://colab.research.google.com/drive/13mN-OGyMoIeEbkdFdwl-LqWohjG5sqiN#scrollTo=exHP3hO_khL1>
+Task 3: <https://github.com/danhpcv/datacracy-atom-danhpcv|https://github.com/danhpcv/datacracy-atom-danhpcv>",U01USGKQ771,U01V00KHHHP
+C01U6P7LZ8F,246fb20c-8739-4664-9bcf-14f57aee17f7,2021-05-10 11:35:39.003800,U01UMC08KL2,2021-05-18 15:09:59.000800,2,"['U01UTGS5ZNY', 'U01UMC08KL2']",https://github.com/auslynnguyen/,"Mình xin phép gửi bài Assignment 1 ạ. :D
+Task 1: <https://docs.google.com/spreadsheets/d/1j_duRwbJeKKwVVetBEPo84HGbCVmAsFUj7YdreFszTk/edit?usp=sharing>
+Task 2: <https://colab.research.google.com/drive/1HN0jrXCqO7NDeuzeIXkOxbrZF47qgN5H?usp=sharing>
+Task 3: <https://github.com/auslynnguyen/datacracy-atom-thunguyen>",U01UTGS5ZNY,U01UMC08KL2
+C01U6P7LZ8F,4214088f-ccdc-4e8e-9c19-677ae3f439a1,2021-05-10 10:07:35.001200,U01UTGRQS9J,2021-05-15 16:28:16.004000,2,"['U01VB632FPS', 'U01V00KHHHP']",,"Em xin phép nộp lại bài ạ. Hôm bữa em hơi lag nên nộp nhầm channel =]]
+<https://docs.google.com/document/d/1t-NkkOyub7ltbGvEHZmw3SPtgW3BrH8aWIase87VrWg/edit?usp=sharing>",U01VB632FPS,U01V00KHHHP
+C01U6P7LZ8F,cfad12f7-bf9c-4209-b563-f495f378fb1f,2021-05-08 13:43:25.006900,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,<https://datacracy.slack.com/archives/C01B4PVGLVB/p1620456097019400>,,
+C01U6P7LZ8F,21094a1f-9682-4838-96c7-17735444db09,2021-05-08 13:36:43.006000,U01UMBX2X18,1970-01-01 07:00:00.000000,0,0,,Cám ơn Quân nhiều nhé. Hay quá Quân ơi,,
+C01U6P7LZ8F,7857690f-4e60-4495-bc93-349c785f5ebf,2021-05-08 13:31:59.005200,U01UMJ36QD9,2021-05-08 13:36:43.006000,1,['U01UMBX2X18'],,"hi mọi người, ngoài <https://www.hackerrank.com/challenges/between-two-sets/problem> mình xin phép được chia sẻ một nơi khác thực hành về Python: <https://leetcode.com/problems/count-and-say/>
+Với concept tương tự như bên Hackerrank . Bạn nào quan tâm thì có thể truy cập và làm thử trên này nhé.",U01UMBX2X18,
+C01U6P7LZ8F,341f3fd5-41d4-4d37-bc49-be1f84547c97,2021-05-08 09:56:13.001700,U01UMC0N5U2,1970-01-01 07:00:00.000000,0,0,,"Hi anh chị, em xin phép gửi lại link Task 1, anh chị Mentor check giúp em xem được chưa ạ <@U01UMBX2X18> <@U01BE2PR6LU>
+<https://docs.google.com/spreadsheets/d/1ArM8cxJNU4H17t9Ts3TnJkcvRLorTOmewW96oucYlCI/edit?usp=sharing>",,
+C01U6P7LZ8F,4abf215d-ff30-44c0-9384-9da735a374c1,2021-05-07 23:29:48.000700,U01USGKQ771,2021-05-11 09:52:00.000200,1,['U01UMC0N5U2'],https://github.com/TrangNgo1709/,"Chắc em chốt sổ gửi assignment 1 ạ :))
+Bài 1: <https://drive.google.com/file/d/1ng9wV6LFTv5lDyJSBv2nYaOlfTKvL9s0/view?usp=sharing>
+Bài 2: <https://colab.research.google.com/drive/1rY0pc1FFzSRpjbWv7DTE8WmhqlD6pKzO?usp=sharing>
+Bài 3: <https://github.com/TrangNgo1709/datacracy-atom-Ngo-Thi-Minh-Trang>",U01UMC0N5U2,
+C01U6P7LZ8F,CB7D6549-3D83-408E-A485-8DCA4C95DC4C,2021-05-04 20:55:46.001800,U01UTGVPE7N,1970-01-01 07:00:00.000000,0,0,https://github.com/hoaintp/,"Chào mọi người, em gửi assignment 1 ạ: 
+<https://github.com/hoaintp/datacracy-atom-hoaintp|https://github.com/hoaintp/datacracy-atom-hoaintp>
+Hẹn gặp mọi người thứ 7 này :two_hearts:",,
+C01U6P7LZ8F,ab6d23e2-f50e-465e-881b-1327d5ce437c,2021-05-04 00:41:18.002400,U01U6JQB695,2021-05-11 10:10:06.001300,2,"['U01UMC0N5U2', 'U01U6JQB695']",https://github.com/Tenderriver/,"Em gửi Assignment 1 ạ:
+1. Task 1: <https://docs.google.com/spreadsheets/d/1bjuqHqDIfUZHL7l562HOQ8je7jwzG3cDzp5M-MVpZms/edit?usp=sharing|https://docs.google.com/spreadsheets/d/1bjuqHqDIfUZHL7l562HOQ8je7jwzG3cDzp5M-MVpZms/edit?usp=sharing>
+2. Task 2: <https://colab.research.google.com/drive/1zWbE-TC1Yw5TBUen4ezrP51sV68ezhfD?usp=sharing|https://colab.research.google.com/drive/1zWbE-TC1Yw5TBUen4ezrP51sV68ezhfD?usp=sharing>
+
+3. Task 3: <https://github.com/Tenderriver/datacracy-atom--Phan-Thuy-Giang-|https://github.com/Tenderriver/datacracy-atom--Phan-Thuy-Giang->",U01UMC0N5U2,U01U6JQB695
+C01U6P7LZ8F,8a6f0a0c-f0dc-4666-b667-0f659766908f,2021-05-03 15:51:19.001200,U01V00KHHHP,2021-05-15 00:51:26.024600,1,['U01UMBZHU2W'],https://github.com/saturn1101/,"Em gửi Assignment 1 ạ:
+1. Link *Google Spreadsheet* Task 1: <https://docs.google.com/spreadsheets/d/1HaV9sUI6UQzgcRqpzkGy18XYlzcon2hWiFGuKhnz5IU/edit?usp=sharing>
+2. Link *Google Colab* Task 2: <https://colab.research.google.com/drive/1ilny8bAtOMOT57mVxJDoEZyQWJ_9-UvX?usp=sharing>
+3. Github: <https://github.com/saturn1101/datacracy-atom-phuong-tran>",U01UMBZHU2W,
+C01U6P7LZ8F,a206160a-3b59-44d0-a800-091897d7fcc7,2021-04-26 13:53:56.000800,U01UMBZHU2W,2021-05-15 00:52:35.025100,2,"['U01UMJ451V1', 'U01UMBZHU2W']",,"Chào mọi người, mình gửi assignment 1 nhaa:
+<https://www.notion.so/L-Th-o-Vy-Assignment-1-f2df526a7fb74d8a9d305061f6772cc2>
+Chúc mọi người một đầu tuần vui vẻ ^^",U01UMJ451V1,U01UMBZHU2W
+C01U6P7LZ8F,65967e82-ee13-4c5d-8cd8-8cfec7050f5e,2021-04-24 09:01:27.043200,U01VB63LRNC,2021-05-11 19:37:14.003100,1,['U01UMJ451V1'],https://github.com/AnhThuNguyenHuynh/,"Chào mọi người, mình  gửi Assignment 1 nhé:
+<https://github.com/AnhThuNguyenHuynh/datacracy-atom-NguyenHuynhAnhThu>",U01UMJ451V1,
+C01U6P7LZ8F,2616dfec-29bb-426d-8f4e-e425a288347d,2021-04-24 08:44:32.042500,U01UTGS5ZNY,2021-05-12 09:11:56.006900,2,"['U01UTGRMGEQ', 'U01UTGS5ZNY']",,"Chào mọi người, mình gửi assignment 1: <https://docs.google.com/document/d/1AVJC1OZUGY9evNxJQzDhGaPxfBDTWd-Cj_dcu1bxRsQ/edit?usp=sharing>",U01UTGRMGEQ,U01UTGS5ZNY
+C01U6P7LZ8F,16a573fd-377c-4713-9045-818f1fe64ae4,2021-04-24 08:08:57.041400,U01U6JM6LEB,2021-05-14 18:22:06.023600,1,['U01V00P4S2V'],https://github.com/vietqh/,"Chào mọi người, mình gửi assignment 1: Task 1: <https://docs.google.com/spreadsheets/d/1O3sH0lT7hPcR2AWq9MYkGmbdnK1oNPgBgNdcHcaoQrU/edit#gid=1677392585> 
+Task 2: <https://colab.research.google.com/drive/1wmEYMAaGCw0OzSzOVLD9rwxvkk8gr4z5#scrollTo=2BGRX19L6fgb> 
+Task 3: <https://github.com/vietqh/datacracy-atom-HoangQuocViet>",U01V00P4S2V,
+C01U6P7LZ8F,e77725c4-cccc-4ea0-a0f3-d3f8a7f434e2,2021-04-24 05:16:41.038200,U01V00P4S2V,1970-01-01 07:00:00.000000,0,0,https://github.com/vuthanhdatt/,"Mình gửi bài assignment1:
+Task 1: <https://docs.google.com/spreadsheets/d/1XDHiv72ITLoY1aGYuc1LbqpVq20k72th4XRYPmqSAhI/edit?usp=sharing>
+Task 2: <https://colab.research.google.com/drive/1VnMQdhpjKldwvJnjqpYO0sQkeaVbvNyB?usp=sharing>
+Task 3: <https://github.com/vuthanhdatt/datacracy-atom-VuThanhDat>",,
+C01U6P7LZ8F,130cb063-2355-4d69-8e98-e058ceeeca34,2021-04-24 02:47:27.036100,U01UMBX2X18,2021-05-13 22:13:42.020000,2,"['U01UTGT8CVA', 'U01UMJ36QD9']",,"Em xin gửi link Doc tổng hợp phần bài tập của em ạ
+<https://docs.google.com/document/d/1vf7hHma_ARS8lwPUam0bEv4K00wVo1pmCMH8YQ5fJTw/edit?usp=sharing>",U01UTGT8CVA,U01UMJ36QD9
+C01U6P7LZ8F,e08b9da8-2cce-44e0-90b9-a158203ee4cd,2021-04-24 01:56:58.034700,U01UTGRP0HJ,1970-01-01 07:00:00.000000,0,0,https://github.com/TranPham-96/,"Mình nộp bài Assignment 1
+Task 1: <https://drive.google.com/file/d/1j07jiW9qIEnDAx9vhD1HqhjLFw0cDb6t/view?usp=sharing>
+Task 2: <https://colab.research.google.com/drive/1wg85ijR93tr7PDpKSEEZikRSxPWX0L9W?usp=sharing>
+Task 3: <https://github.com/TranPham-96/datacracy-atom--Pham-Le-Minh-Tran->",,
+C01U6P7LZ8F,1591e3bd-e3dc-4561-ad66-48e3266858bb,2021-04-24 01:55:40.033300,U01UEJFMUSJ,2021-05-15 09:52:09.002300,3,"['U01USGKQ771', 'U01UJ9NKX8D', 'U01UEJFMUSJ']",https://github.com/nhduonng2803/,"Em xin phép gửi bài ạ:
+Task 01: <https://docs.google.com/spreadsheets/d/1iFP3Prrns84yDzYS0tnoomrNB-Z2H1Jh/edit#gid=1356901969>
+Task 02: <https://colab.research.google.com/drive/1OGve9lfUlKusbFgaua9K5dHbSQ8rTfPm?authuser=1>
+Task 03: <https://github.com/nhduonng2803/Datacracy-atom-nhduong>",U01USGKQ771,U01UJ9NKX8D
+C01U6P7LZ8F,eadb19dc-b7e8-4170-a5bf-ddf2ef2beac0,2021-04-23 23:49:42.030500,U01UJ9P1S3X,2021-05-17 23:47:30.002200,3,"['U01UTGT8CVA', 'U01UJ9P1S3X', 'U01UMJ36QD9']",https://github.com/lethuthao1368/,"Hi mn, mình gửi assignment 1 của tuần này
+Task 1 (google spreadsheet): <https://docs.google.com/spreadsheets/d/11WQq4JNgH0_vR-4igacTiO5QeCYL1JN77DwVD49OhhY/edit?usp=sharing>
+Task 2 (google colab): <https://drive.google.com/drive/folders/1Kh2NI6ZZK2xg71gYI6Ic2TkH0y3Aazky?usp=sharing>
+Task 3 (github): <https://github.com/lethuthao1368/datacracy-atom--thao-le-.git>
+Chúc mọi người ngủ ngon! :smile:",U01UTGT8CVA,U01UJ9P1S3X
+C01U6P7LZ8F,e2ffdd15-53b3-44e8-aa5b-09aa96c6e68c,2021-04-23 23:45:14.029300,U01UMJ451V1,2021-05-22 12:49:27.002400,3,"['U01UMBW8G8J', 'U01UMJ451V1', 'U01V082PLN5']",https://github.com/annaho124/,"Em gửi bài nộp Assignment 1 dưới đây ạ. Chúc mọi người buổi tối vui vẻ!
+Task1: <https://docs.google.com/spreadsheets/d/1byVVlbyPWEIaa2uwm7D1PiJYkHNZffsSNnIdfa9W_a8/edit#gid=402624002>
+Task2: <https://colab.research.google.com/drive/1p8DoHN5_J9IAgwfgeMgpoU-s7TQTWdd9?authuser=1#scrollTo=qgcHbg2Xcq3x>
+Task3: <https://github.com/annaho124/datacracy-atom-Ho_Bao_Ngan>",U01UMBW8G8J,U01UMJ451V1
+C01U6P7LZ8F,bf0e7389-a8f3-42f0-b661-29b617b8ab7f,2021-04-23 23:41:53.026200,U01UJ9M5TU5,2021-05-10 19:45:15.005800,1,['U01UJ9MUADT'],https://github.com/minhnguyentk95/,"Hi mọi người, Mình gửi bài assignment 1 bên dưới nhé! Hẹn gặp mọi người vào ngày mai
+Task 1. <https://docs.google.com/spreadsheets/d/1XH3SLX2ydh2VmABImj0CTJNldWo7PD7-E2d3J-22DAg/edit?usp=sharing>
+
+Task 2: <https://colab.research.google.com/drive/1Jf4ksc-HPykpr82JKlIPRVUUoptn_MeO?usp=sharing>
+
+Task 3: <https://github.com/minhnguyentk95/datacracy-atom-Nguyen-Thi-Kim-Minh>",U01UJ9MUADT,
+C01U6P7LZ8F,d0e9c131-e6a2-42b6-a928-f1a4c4b1093d,2021-04-23 22:48:06.023900,U01UJ9NKX8D,2021-05-15 08:58:19.001900,1,['U01UTGVPE7N'],https://github.com/lienanh264/,"Em gửi Assignment 1 bên dưới nha
+Task 1: <https://docs.google.com/spreadsheets/d/1Jm3AbAAT7G-U-X-Y7JWl5mE_tsKIxj2lrzORTRE77GQ/edit?usp=sharing>
+Task 2: <https://colab.research.google.com/drive/1m6OpbUUsxjs5ajLNS4yymymouXTBBA_S?usp=sharing>
+Task 3: <https://github.com/lienanh264/datacracy-atom--lien-anh->
+Hẹn gặp mọi người ngày mai :D",U01UTGVPE7N,
+C01U6P7LZ8F,1dabc185-17be-4a24-be66-017e3b866c42,2021-04-23 22:03:37.023200,U01UJ9MUADT,2021-05-11 21:46:48.005500,1,['U01UTGRMGEQ'],https://github.com/Lulichlam/,"Mình gửi link submission assignment1 nhé:
+1. <https://docs.google.com/spreadsheets/d/1f3w0cSAKtn8DmiQnop08RcrN0-lAZGG2DrbfX0Bzs2E/edit?usp=sharing|https://docs.google.com/spreadsheets/d/1f3w0cSAKtn8DmiQnop08RcrN0-lAZGG2DrbfX0Bzs2E/edit?usp=sharing>
+ 2. <https://colab.research.google.com/drive/1EPTXQmiZGmKFbo7IRVSUysXdn-c-Nqp0?usp=sharing|https://colab.research.google.com/drive/1EPTXQmiZGmKFbo7IRVSUysXdn-c-Nqp0?usp=sharing>
+ 3. <https://github.com/Lulichlam/datacracy-atom-thutrang|https://github.com/Lulichlam/datacracy-atom-thutrang>",U01UTGRMGEQ,
+C01U6P7LZ8F,FA5E60C5-2B06-4535-8305-8688CC9AB72F,2021-04-23 21:49:19.022500,U01VB6AT4G0,2021-05-11 22:58:18.006600,1,['U01UJ9PA0MB'],https://github.com/tamle1012/,"Chào mọi người, mình gửi assignmen 1 nhé, chúc mọi người ngủ ngon. Hẹn gặp mọi người vào sáng mai
+Task 1: <https://drive.google.com/file/d/1rAXfZVmqwuHAWBetUQdOCjBkdTQr1blH/view?usp=sharing|https://drive.google.com/file/d/1rAXfZVmqwuHAWBetUQdOCjBkdTQr1blH/view?usp=sharing>
+Task 2: <https://colab.research.google.com/drive/1Mh5w_fiTvYcSvWvGvy6v4Q5In14ek38g?usp=sharing|https://colab.research.google.com/drive/1Mh5w_fiTvYcSvWvGvy6v4Q5In14ek38g?usp=sharing>
+Task 3: <https://github.com/tamle1012/datacracy-atom--tamle-|https://github.com/tamle1012/datacracy-atom--tamle->",U01UJ9PA0MB,
+C01U6P7LZ8F,388f09a4-d7b2-4278-8156-783d07590b4f,2021-04-23 21:18:48.021900,U01UJ9PRT5K,2021-05-22 12:31:28.002100,2,"['U01UJ9PRT5K', 'U01V082PLN5']",https://github.com/hieulam1312/,"Chào mọi người,
+Em gửi bài tập tuần 1:
+1. Analytics on Spreadsheet: <https://docs.google.com/spreadsheets/d/17w5EXDFocwkdB8MDrLh-AB60TTHLSVG6ynuEJUli7qI/edit#gid=1912002173>
+2. Python Program: <https://colab.research.google.com/drive/1Cu4WwGiARzoTdBt1JRIf3mRW52fUViAE>
+3. Hello Github: <https://github.com/hieulam1312/datacracy-atom-hieulam>
+Hẹn gặp cả nhà ngày mai để trao đổi thêm ạ.
+Chúc mọi người ngủ ngon nhé!",U01UJ9PRT5K,U01V082PLN5
+C01U6P7LZ8F,ecf49a9d-335c-42b6-a82f-40d69bdecdb4,2021-04-23 20:03:06.017800,U01VB632FPS,2021-05-10 17:05:20.005400,1,['U01VB632FPS'],https://github.com/Ha-Huynh-Anh/,"Đây là Assignment 1# của mình nhé,
+• Name: &lt;U01VB632FPS&gt;
+• Status: DONE Todo 1 - 7
+• Link:
+Task 1: <https://docs.google.com/spreadsheets/d/17mL4vWICGmeftZevveq3h2SY97VMAjYtGcjcyHKwXgw/edit?usp=sharing|https://task_1>
+Task 2:
+Flow Control - A Short Program: Rock, Paper, Scissors
+<https://colab.research.google.com/drive/1kGzsW4Tza-r7m8ZkllESAVJfRq1YEjWA?usp=sharing|https://Task2_Link1>
+Python Basic - Your First Program
+<https://colab.research.google.com/drive/1kGzsW4Tza-r7m8ZkllESAVJfRq1YEjWA?usp=sharing|https://Task2_Link2>
+Lists - A Short Program: Conway’s Game of Life
+<https://colab.research.google.com/drive/1P2VTh_LwnNgIKUHQ-GWsOiUBo6SP5A5L?usp=sharing|https://Task2_Link3>
+Dictionaries &amp; Structuring Data - Tic-Tac-Toe Board:
+<https://colab.research.google.com/drive/1P2VTh_LwnNgIKUHQ-GWsOiUBo6SP5A5L?usp=sharing|https://Task2_Link4>
+Functions - A Short Program: Zigzag
+<https://colab.research.google.com/drive/1f2nKx87pwozLLGYwASC5m2hRRaNCARUt?usp=sharing|https://Task2_Link5>
+Task 3:
+<https://github.com/Ha-Huynh-Anh/datacracy-atom-Ha-Huynh-Anh->",U01VB632FPS,
+C01U6P7LZ8F,f59a694b-8e49-4a32-9485-7b662155bc14,2021-04-23 19:59:45.016300,U01UTGRMGEQ,2021-05-18 14:19:23.000600,2,"['U01UJ9NKX8D', 'U01UTGRMGEQ']",https://github.com/nguyenhonghanh2511/,"Xin chào cả nhà, em gửi link bài tập tuần1 ở bên dưới.
+Chúc mọi người một tối cuối tuần vui vẻ và hẹn gặp lại vào sáng mai :)
+<https://github.com/nguyenhonghanh2511/datacracy-atom-Nguyen-T-Hong-Hanh>",U01UJ9NKX8D,U01UTGRMGEQ
+C01U6P7LZ8F,24a4309b-d1b6-4c88-a689-a0d037dd8b65,2021-04-23 19:55:27.014000,U01VB632FPS,2021-04-23 20:05:25.018200,2,"['U01V00LQ7EV', 'U01VB632FPS']",,"Gửi mọi người,",U01V00LQ7EV,U01VB632FPS
+C01U6P7LZ8F,15e261ea-5ad4-46e1-af66-53aa8fb1515d,2021-04-23 18:44:48.011300,U01UJ9LG5U5,2021-05-13 10:53:49.000600,1,['U01UJ9PA0MB'],https://github.com/danhpcv/,"Hi all,
+Mình gửi assignment phần 1 nhé, chúc mọi người cuối tuần vui vẻ
+Task 1: <https://docs.google.com/spreadsheets/d/1YUHbEJehnRlGHfsaqvgz3Mf0fYFMjCHgF4kz-WO2vQY/edit#gid=218077707>
+Task 2: <https://colab.research.google.com/drive/13mN-OGyMoIeEbkdFdwl-LqWohjG5sqiN#scrollTo=exHP3hO_khL1>
+Task 3: <https://github.com/danhpcv/datacracy-atom-danhpcv>",U01UJ9PA0MB,
+C01U6P7LZ8F,8d2c9693-da4c-4899-9939-0e7029786b50,2021-04-23 16:39:19.009400,U01UMC0N5U2,2021-05-16 08:30:02.000500,1,['U01UJ9PRT5K'],https://github.com/chuviethongfpt/,"Hi mọi người, em xin phép gửi bài tập tuần 1 ạ
+Task 1: <https://docs.google.com/spreadsheets/d/1ArM8cxJNU4H17t9Ts3TnJkcvRLorTOmewW96oucYlCI/edit#gid=4530119>
+Task 2 and Task 3:
+<https://github.com/chuviethongfpt/datacracy-atom--Chu-Viet-Hong->",U01UJ9PRT5K,
+C01U6P7LZ8F,f378f3d7-bcd9-41bb-ab68-a5a05c46dceb,2021-04-23 16:23:49.008700,U01UTGT8CVA,2021-05-14 22:25:02.023900,2,"['U01UMBW8G8J', 'U01UTGT8CVA']",https://github.com/ngttnguyen/,"Xin chào mọi người, đây là Assignment1 của mình. Chúc mọi người buổi tối cuối tuần vui.
+1. Link *Google Spreadsheet* - Task 1:
+<https://docs.google.com/spreadsheets/d/1AeAstzQdzJkcIy8TV3LOYwcM5ZKlzSXItqlBFKgdPTg/edit?usp=sharing>
+2. Link *Google Colab* - Task 2:
+<https://colab.research.google.com/drive/1G2crJ2TDwu4UlNUtyWZyuugBwTE5MOAF?usp=sharing>
+3. *Github:* Link tới repo:
+<https://github.com/ngttnguyen/datacracy-atom-NguyenThaoNguyen>",U01UMBW8G8J,U01UTGT8CVA
+C01U6P7LZ8F,64140c2f-30cb-44d0-9746-4a0a81473e4a,2021-04-23 16:20:59.008300,U01UMBW8G8J,1970-01-01 07:00:00.000000,0,0,https://github.com/ngocvu74/,"Chào mọi người, mình gửi link bài làm Home Assignment 1 của mình nhé.
+<https://github.com/ngocvu74/datacracy-atom-vuthibaongoc>",,
+C01U6P7LZ8F,caf1a163-1a5a-47d9-ae4b-2f93b307143f,2021-04-23 14:38:25.004100,U01UJ9M3P1T,2021-05-10 20:58:47.006300,1,['U01UJ9MUADT'],https://github.com/cnhhoang850/,"Chào mọi người, em gửi bài tập tuần 1 ạ.
+1. Link Google Sheet - Task 1: <https://docs.google.com/spreadsheets/d/1Azqdc8rOrbAZEFlgXTGS2vfHNbhDsF7NbFgLRR1Z854/edit?usp=sharing>
+2. Link Google Colab - Task 2: <https://colab.research.google.com/drive/1yklp9Nvz524bvM_T891mwHgTSrVtKXld?usp=sharing>
+3. Link Github Repo - Task 3: <https://github.com/cnhhoang850/datacracy-atom-cao-nguyen-huy-hoang>",U01UJ9MUADT,
+C01U6P7LZ8F,77eeef15-fec5-4949-87ca-ed110c23596a,2021-04-23 08:47:56.001500,U01UJ9PA0MB,2021-05-13 12:16:10.001100,2,"['U01VB632FPS', 'U01UJ9PA0MB']",,"Xin chào mọi người. Đây là Home assignment week 1 của mình. Hẹn gặp lại mọi người vào ngày mai
+<https://bit.ly/3azLWIF>",U01VB632FPS,U01UJ9PA0MB
+C01U6P7LZ8F,aa8c7ee2-3592-4c45-a050-aaccdb6db36a,2021-04-23 01:38:16.010700,U01V00JK9LH,2021-05-22 08:23:53.001300,1,['U01UMJ5AQ0K'],,"Em chào các anh chị. Em gửi mọi người link doc chứa các task được giao ạ.
+<https://docs.google.com/document/d/1qhRUuK4YY2k8lIHcsis60_y-_lLOAZkn-dVVG01rwsE/edit?usp=sharing>",U01UMJ5AQ0K,
+C01U6P7LZ8F,34f0bea7-cbbe-4e4c-ad04-94b2ebb624be,2021-04-23 00:14:28.006700,U01UEJG8KHU,2021-05-10 23:53:55.011000,1,['U01UJ9P1S3X'],https://github.com/trangnguyen-n3t/,"Em chào mọi người ạ. Em gửi bài làm Home Assignment 1 của mình ạ.
+1. Link *Google Spreadsheet* Task 1 (anyone with link can view): <https://docs.google.com/spreadsheets/d/1eLQz3rLl2fFjJcI3ya9gwHrSdKL1u2m1BcOsbcu8Y1c/edit?usp=sharing>
+2. Link *Google Colab* Task 2 (anyone with link can view):
+<https://colab.research.google.com/drive/1VMAvS6O3WeTJevZAqpOlgTY3QK57b_Bf?usp=sharing>
+3. *Github:* <https://github.com/trangnguyen-n3t/datacracy-atom-TrangNguyen>",U01UJ9P1S3X,
+C01U6P7LZ8F,35dc7cc4-f502-4580-9a93-2adf9b8084d4,2021-04-22 23:56:23.005200,U01UMJ36QD9,2021-05-15 12:38:27.002500,2,"['U01UJ9P1S3X', 'U01UMJ36QD9']",https://github.com/Quan030994/,"<https://github.com/Quan030994/datacracy-atom--QuanNguyen>
+Hi mọi người, em gửi link github và thông tin bài làm Home Assignment 1 của mình. Cảm ơn mọi người.",U01UJ9P1S3X,U01UMJ36QD9
+C01U6P7LZ8F,9e9c6642-63c6-445c-b25c-fd0b8a387a47,2021-04-22 23:50:07.003300,U01V082PLN5,2021-05-22 14:21:26.003600,3,"['U01V00JK9LH', 'U01UMJ5AQ0K', 'U01V082PLN5']",https://github.com/interphuoc/,<https://github.com/interphuoc/datacracy-atom--phuochuynh-> : Dạ em xin phép gửi link Home Assignment 1 của em. Chúc mọi người ngủ ngon ^^,U01V00JK9LH,U01UMJ5AQ0K
+C01U6P7LZ8F,f37184b6-5b1d-4e2e-a0ef-72106846683c,2021-04-21 13:00:34.000800,U01UMJ5AQ0K,2021-05-16 08:46:03.000800,2,"['U01V00JK9LH', 'U01UJ9PRT5K']",https://github.com/duongphannamhung/,<https://github.com/duongphannamhung/datacracy-atom-duongphannamhung> : Em gửi link assignment 1 của mình. Chúc mọi người nghỉ lễ vui vẻ nha :smiling_face_with_3_hearts:,U01V00JK9LH,U01UJ9PRT5K
+C01U6P7LZ8F,ee293aa9-a2c1-4db3-a119-7233519a5b21,2021-04-17 14:24:10.000900,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,"&gt; *HOME ASSIGNMENT#1*
+:red_circle: *Channel để trao đổi &amp; giai đáp thắc mắc trong quá trình làm Assignmetn#1*
+:raised_hands: *Ai đã thấy tin nhắn, hãy react cho vui nhà vui của nhé*
+• <https://app.gitbook.com/@anhdang/s/datacracy/atom/1-data-strategy-and-metrics/1.4-home-assignment|Home Assignment#1>, gồm: Google Spreadsheet Analytics, Google Colab + Python Programming, Github repo
+• Sách tham khảo cho Python Programming: Sweigart 2019 - Automate Boring Stuff with Python for Total Beginner (Đính kèm trong message này)
+• Mọi người post assignment của mình vào <#C01U6P7LZ8F|atom-assignment1> (trước buổi học :calendar: Week 2, thứ 7, ngày 24/04)
+    ◦ Vì nội dung có tính sáng tạo riêng nên chúng ta cùng chia sẻ công khai và tin rằng mỗi bài sẽ tiếp cận mỗi khác nhé
+<https://datacracy.slack.com/archives/C01UL6K1C7L/p1618644200017500>",,
+C01UL6K1C7L,95a97922-b168-4fa1-ad8f-9330ad791f38,2021-04-24 06:11:40.005700,U01UMJ36QD9,1970-01-01 07:00:00.000000,0,0,,Chúc cô <@U01BE2PR6LU> nhanh khỏe ạ. :muscle::muscle:,,
+C01UL6K1C7L,74637683-38A8-424D-8288-81B29C7C5B16,2021-04-24 04:57:23.003600,U01VB632FPS,2021-04-24 05:34:14.004100,1,['U01UMBZHU2W'],,Chúc teacher <@U01BE2PR6LU> mau khoẻ nhé! Hy vọng sau lễ sẽ được nghe teacher giảng bài :),U01UMBZHU2W,
+C01UL6K1C7L,9a20a3fd-1a07-49f9-8114-734baffb1862,2021-04-23 19:52:23.000700,U01UMBXJLHG,2021-04-23 19:54:56.001100,1,['U01V00LQ7EV'],https://github.com/nvlinh209/,Nộp bài: <https://github.com/nvlinh209/datacracy-atom-Nguyen-Van-Linh/blob/main/README.md> <https://drive.google.com/file/d/1vRmt6kXA1N7xnvWWMMbOThmW-6UHED_Q/view?usp=sharing> <https://colab.research.google.com/drive/1rdYsA5xrBBDfQeBorM7sDePOP6tagCfs?usp=sharing>,U01V00LQ7EV,
+C01UL6K1C7L,064CCEA3-1F1C-42F1-9BCB-AE3FE8C771E5,2021-04-17 14:56:02.020400,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,Lab 1 k cần nộp. Assign 1 thì trước buổi học tiếp theo nha bạn ơi <@U01UMBXJLHG> ,,
+C01UL6K1C7L,73586a83-139f-45f0-b13c-ec3eab10c1ab,2021-04-17 14:52:35.019500,U01UMBXJLHG,2021-04-17 14:56:44.020700,2,"['U01BE2PR6LU', 'U01UMBXJLHG']",,Lab 1 và Assig.#1 khi nào nộp vậy các bạn,U01BE2PR6LU,U01UMBXJLHG
+C01UL6K1C7L,d1e7e9e8-61e0-40ad-91db-3a3ed038ea32,2021-04-17 08:45:00.000900,U01BE2PR6LU,2021-04-17 08:46:31.001400,1,['U01BE2PR6LU'],,"NỘI DUNG
+---
+• (60') Data Strategy for Business + Metrics Designs 
+• (60')Lab: Analytics on Excel
+TÀI LIỆU
+• <https://app.gitbook.com/@anhdang/s/datacracy/atom/1-data-strategy-and-metrics|Gitbook> 
+• <https://docs.google.com/presentation/d/1YRDjcK6as04WxGga0rPQMyd1AwJmL3ySFDfgVUCpGjs/edit#slide=id.gcf12cb55cb_0_0|Slide Data Strategy>
+• <https://app.gitbook.com/@anhdang/s/datacracy/atom/1-data-strategy-and-metrics/1.3-lab-analytics-on-spreadsheet|Lab 1>",U01BE2PR6LU,
+C021FSDN7LJ,dad18eb3-8434-4188-b43e-694c3b5bf215,2021-05-22 12:39:34.015500,U01UTGRMGEQ,2021-05-22 21:18:58.019900,1,['U01UTGRMGEQ'],https://github.com/nguyenhonghanh2511/,"Dạ em chưa được review ạ. Bài tập tuần 2 em đã revised ở <https://github.com/nguyenhonghanh2511/datacracy-atom-Nguyen-T-Hong-Hanh/blob/main/WEEK%202_Link%20of%20assignment%20for%20peer%20review|link này>.
+Em cũng xin thành thật khai báo là bữa giờ em chưa kịp đi review bài 2 của ai cả, em sẽ review ngay trong hôm nay ạ. :joy:",U01UTGRMGEQ,
+C021FSDN7LJ,fc264fbb-a5f6-4f27-a692-4631721e4912,2021-05-22 12:29:51.013900,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,<!channel> Mọi người review bài tập cho nhau nhé. Ai chưa dc review thì hú lên ở đây nha :boxing_glove: :love_letter:,,
+C021FSDN7LJ,9726729a-a6c4-4854-94c6-87f6684f884a,2021-05-22 11:58:33.012100,U01VBGPP1EU,1970-01-01 07:00:00.000000,0,0,,"Mình upload file làm hồi nãy lên cho mọi người tham khảo nha ạ. Hy vọng giúp được mọi người!  <!channel>
+<https://drive.google.com/file/d/1M3GA-wsi4v3H9AWnQ_fR2BOyj8AebWZ5/view?usp=sharing>",,
+C021FSDN7LJ,d87b0c65-f358-4c2d-8650-77852bd14bff,2021-05-21 11:24:09.003100,U01U6JQB695,2021-05-24 22:12:28.027100,2,"['U01UJ9PA0MB', 'U01U6JQB695']",https://github.com/Tenderriver/,"Mình nộp bài siêu siêu trễ hạn, mong mọi người thông cảm T_T
+<https://github.com/Tenderriver/atom-assignments/tree/main/assignment_2>",U01UJ9PA0MB,U01U6JQB695
+C021FSDN7LJ,a423711a-eb63-4d6e-95d2-49d90290654d,2021-05-20 18:19:34.017100,U01KDQJ9FCG,2021-05-21 11:53:35.005600,2,"['U01UTGT8CVA', 'U01KDQJ9FCG']",https://github.com/phanlinh0803/,"phù, cuối cùng thì em cũng có cái để nộp rồi :joy: em gửi assignment 2 của mình ạ, có một số phần em nghĩ là mình làm chưa đúng, chắc thiếu gì ở đâu đó mà chạy lệnh nó không ra gì hết, cũng không báo lỗi gì luôn, nên em gửi lên để được review và sửa tiếp, em cảm ơn ạ :woman-gesturing-ok: <https://github.com/phanlinh0803/atom-assignments/blob/Phan-Linh-homeassignment-02/ATOM_%7C_Phan_Linh_Home_Assignment_2.ipynb>",U01UTGT8CVA,U01KDQJ9FCG
+C021FSDN7LJ,93d7e3a7-654c-4963-b9f3-2000a74f6e91,2021-05-20 07:19:34.008100,U01UMBX2X18,1970-01-01 07:00:00.000000,0,0,https://github.com/thienphu71/,Phần task 2 của mình: <https://github.com/thienphu71/atom-assignments/blob/main/ATOM_Home_Assignment_2.ipynb>,,
+C021FSDN7LJ,cca9164a-a51a-4f1c-a8e4-cfb185151a19,2021-05-19 21:53:45.005800,U01USGKQ771,2021-05-21 09:15:19.000700,1,['U01UTGT8CVA'],https://github.com/TrangNgo1709/,Em gửi task 2: <https://github.com/TrangNgo1709/atom-assignments/tree/main/assignment_2>,U01UTGT8CVA,
+C021FSDN7LJ,f4cf3b92-2c7a-40c2-829c-19fd89038cab,2021-05-19 11:04:59.001900,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,Ai giúp review bài của <@U01V00KHHHP> nè. Rất hứa hẹn học hỏi dc nhiều điều trong bài assignment siêu hạng nè :i_love_you_hand_sign:,,
+C021FSDN7LJ,b37fe236-db2c-4f0b-9d74-d37434fff42a,2021-05-19 11:01:58.001200,U01BE2PR6LU,2021-05-19 11:20:27.002400,3,"['U01V00KHHHP', 'U01BE2PR6LU', 'U01UMC0N5U2']",,<!channel> Mọi người cố gắng dành thời gian review bài cho các bạn nhé. Ai chưa làm thì cố gắng làm (dù trễ vẫn hơn không) và nếu bài của bạn chưa được review thì báo lên ở đây nha,U01V00KHHHP,U01BE2PR6LU
+C021FSDN7LJ,248db1e9-6ae4-46b7-857d-2f9733b231aa,2021-05-17 22:36:43.012800,U01UMJ5AQ0K,1970-01-01 07:00:00.000000,0,0,https://github.com/duongphannamhung/,"Em gửi Assignment 2, nhận ra là todo2 của mình hơi bị overthinking, nhưng mà cũng thú vị. Vì nội công function vẫn còn yếu nên mong anh chị mentor và mọi người đóng góp thêm cho bài của mình đặc biệt là todo 2 nhé :smiling_face_with_3_hearts:
+<https://github.com/duongphannamhung/atom-assignments/tree/main/assignment_2>",,
+C021FSDN7LJ,393D42F5-52CE-47C0-92B7-BD2C9BC1A430,2021-05-17 07:28:18.005500,U01UTGRMGEQ,2021-05-23 10:49:36.022700,2,"['U01UJ9MUADT', 'U01UTGRMGEQ']",https://github.com/nguyenhonghanh2511/,"Em xin phép gửi lại link do tối qua gửi nhầm bên #atom-asignment3 ạ.
+Bài tập tuần 2 em đã revised ở <https://github.com/nguyenhonghanh2511/datacracy-atom-Nguyen-T-Hong-Hanh/blob/main/WEEK%202_Link%20of%20assignment%20for%20peer%20review|link này> ạ.
+Nhân tiện, bài tập tuần 1 của em vẫn chưa được review :smiling_face_with_tear:, nên em gửi lại link <https://github.com/nguyenhonghanh2511/datacracy-atom-Nguyen-T-Hong-Hanh/blob/main/WEEK%201_Link%20of%20assignment%20for%20peer%20review|ở đây> để nhờ mọi người giúp em review nhé.
+Em cảm ơn ạ.",U01UJ9MUADT,U01UTGRMGEQ
+C021FSDN7LJ,67c837bd-cba1-4538-8fff-224bbc35f200,2021-05-16 04:43:27.006100,U01V00KHHHP,2021-05-22 13:22:25.016600,3,"['U01UMC0N5U2', 'U01V00KHHHP', 'U01V082PLN5']",https://github.com/saturn1101/,<https://github.com/saturn1101/atom-assignments/blob/phuong-assignments/assignment_2/ATOM_Home_Assignment_2.ipynb> Em gửi bài tập ạ,U01UMC0N5U2,U01V00KHHHP
+C021FSDN7LJ,811e1cc8-9a7a-4e2d-81dc-906eae8e8f3a,2021-05-15 09:12:58.004500,U01UMBZHU2W,2021-05-24 08:32:00.025300,2,"['U01V00KHHHP', 'U01UMBZHU2W']",https://github.com/tinyvyy/,"Chào mọi ngườii,
+em gửi assignment 2 ạ:
+<https://github.com/tinyvyy/atom-assignments/tree/main/assignment_2>",U01V00KHHHP,U01UMBZHU2W
+C021FSDN7LJ,501b9821-d10a-4312-a417-29489cba6e67,2021-05-15 09:01:57.003500,U01UJ9M3P1T,2021-05-22 08:42:07.009000,1,['U01UMJ5AQ0K'],https://github.com/cnhhoang850/,"Mình gửi assignment 2 nhé
+<https://github.com/cnhhoang850/atom-assignments>",U01UMJ5AQ0K,
+C021FSDN7LJ,1195e494-1ead-4bc0-93d5-0f9ad0137655,2021-05-15 08:46:39.002700,U01UJ9LG5U5,2021-05-23 17:22:56.024100,2,"['U01UTGRMGEQ', 'U01UJ9LG5U5']",https://github.com/danhpcv/,<https://github.com/danhpcv/atom-assignments/tree/main/assignment_2> minh gui bai tap nhe,U01UTGRMGEQ,U01UJ9LG5U5
+C021FSDN7LJ,aaba8085-619a-4251-a5b6-f39c105288e1,2021-05-15 08:44:55.002400,U01VB63LRNC,2021-05-19 22:14:47.007100,1,['U01UMJ36QD9'],https://github.com/AnhThuNguyenHuynh/,"Mình gửi Assignment 2 nhé
+<https://github.com/AnhThuNguyenHuynh/atom-assignments/tree/main/assignment_2>",U01UMJ36QD9,
+C021FSDN7LJ,cda92e6e-fd1f-43e1-bbea-f0c18d17a4a5,2021-05-15 07:04:33.001600,U01UJ9M5TU5,2021-05-22 21:09:48.019200,1,['U01UTGRMGEQ'],https://github.com/minhnguyentk95/,"Chào mọi người, mình gửi bài assignment 2 ạ. <https://github.com/minhnguyentk95/datacracy-atom-Nguyen-Thi-Kim-Minh/blob/Master/Home_Assignment_2.ipynb>",U01UTGRMGEQ,
+C021FSDN7LJ,10d93567-5d8a-4ed6-8b42-e641c1c41358,2021-05-15 06:54:46.001200,U01UJ9P1S3X,2021-05-22 13:20:45.016200,2,"['U01V00JK9LH', 'U01V082PLN5']",https://github.com/lethuthao1368/,"Hi cả lớp, mình gửi assignment 2, mọi người buổi sáng vui vẻ! <https://github.com/lethuthao1368/atom-assignments/blob/main/assignment_2/ATOM_Home_Assignment_2.ipynb>",U01V00JK9LH,U01V082PLN5
+C021FSDN7LJ,ebf8f05e-f0a0-4e97-976a-968bc1f77487,2021-05-15 03:11:15.024800,U01UJ9MUADT,2021-05-23 09:51:30.021600,2,"['U01VB632FPS', 'U01UJ9MUADT']",https://github.com/Lulichlam/,Mình nộp bài nhé. <https://github.com/Lulichlam/atom-assignments/blob/main/assignment_2/ATOM_Home_Assignment_2.ipynb>,U01VB632FPS,U01UJ9MUADT
+C021FSDN7LJ,8e5f5b77-fa71-4fb5-8293-8915eac0bf49,2021-05-15 03:11:09.024600,U01UEJFMUSJ,2021-05-25 07:26:06.000100,2,"['U01VB632FPS', 'U01UEJFMUSJ']",https://github.com/nhduonng2803/,"Em gửi cả lớp assignment 2 ạ:
+<https://github.com/nhduonng2803/Datacracy-atom-nhduong/blob/main/Week02.ipynb>",U01VB632FPS,U01UEJFMUSJ
+C021FSDN7LJ,44cd17dc-46d5-4868-a637-a719efc60212,2021-05-15 01:19:09.023700,U01V00JK9LH,2021-05-21 12:31:12.006200,2,"['U01UMJ36QD9', 'U01V00JK9LH']",https://github.com/phamdinhtuan200382/,"Em gửi cả lớp assignment 2 ạ:
+<https://github.com/phamdinhtuan200382/atom-assignments/tree/main/assignment_2>",U01UMJ36QD9,U01V00JK9LH
+C021FSDN7LJ,12a69b88-ca3b-4d80-a9ac-b7a25e46cfb9,2021-05-15 01:14:27.022900,U01UTGVPE7N,2021-05-25 01:10:16.027500,2,"['U01UJ9PA0MB', 'U01UTGVPE7N']",https://github.com/hoaintp/,"Chào mọi người, em xin gửi assignment 2 nhé ạ.:
+<https://github.com/hoaintp/datacracy-atom-hoaintp>",U01UJ9PA0MB,U01UTGVPE7N
+C021FSDN7LJ,2e7cac50-cdd1-4e87-9c98-be785655a8df,2021-05-15 00:31:14.022400,U01UTGRQS9J,2021-05-17 16:31:44.008000,2,"['U01UTGS5ZNY', 'U01UTGRQS9J']",https://github.com/vukhanhlinh/,"Em xin phép gửi bài tập tuần 2 nha mọi người
+<https://github.com/vukhanhlinh/atom-assignments/blob/main/Assignment_Week_2.ipynb>",U01UTGS5ZNY,U01UTGRQS9J
+C021FSDN7LJ,fbaf7533-3907-4e28-a2fc-e8635ffac23d,2021-05-15 00:13:57.021200,U01UTGS5ZNY,2021-05-24 09:24:43.025600,2,"['U01UJ9MUADT', 'U01UTGS5ZNY']",https://github.com/ngochant/,"Chào mọi người,, mình gửi assignment 2 nhé:
+<https://github.com/ngochant/atom-assignments-1/blob/main/assignment_2/Atom_Home_Assignment_ngocha.ipynb>",U01UJ9MUADT,U01UTGS5ZNY
+C021FSDN7LJ,78dc15cb-17b5-4ad1-8055-2a1021e7cf99,2021-05-14 23:57:51.019900,U01UMJ451V1,2021-05-21 21:25:32.007200,3,"['U01UMJ451V1', 'U01UMC0N5U2', 'U01UMJ36QD9']",https://github.com/annaho124/,Dạ em xin phép gửi bài Assignment 2 ạ: <https://github.com/annaho124/atom-assignments>,U01UMJ451V1,U01UMC0N5U2
+C021FSDN7LJ,ebafa210-22f5-4575-b59a-d1531374e60e,2021-05-14 23:48:44.019400,U01VB632FPS,2021-05-16 21:08:55.003600,2,"['U01V00KHHHP', 'U01VB632FPS']",https://github.com/Ha-Huynh-Anh/,"Gửi mọi người,
+• Name: &lt;U01VB632FPS&gt;
+• Status: DONE 
+• Link: <https://github.com/Ha-Huynh-Anh/Assignment-3_datacracy>",U01V00KHHHP,U01VB632FPS
+C021FSDN7LJ,b7dbcec3-05ed-4710-9168-ce6ea164ba9a,2021-05-14 23:17:59.017400,U01UJ9NKX8D,1970-01-01 07:00:00.000000,0,0,https://github.com/lienanh264/,"Em chào anh chị :smile: Em gửi bài tập assignment 2 ạ
+<https://github.com/lienanh264/datacracy-atom--lien-anh-.git>",,
+C021FSDN7LJ,b7f33f27-139c-490d-91c7-b6a36d3c02c1,2021-05-14 23:15:27.016800,U01UQGZHSTZ,2021-05-22 08:51:47.009200,1,['U01UTGVPE7N'],,"Chào mọi người, mình xin gửi bài tuàn này. Mình mới hoàn thành đến To do #3.
+<https://colab.research.google.com/drive/16or8LNftQ3uK2qud5ytH-tCNjuBlVc0e?usp=sharing>",U01UTGVPE7N,
+C021FSDN7LJ,aecbf281-d714-4fa6-8cff-a6d8a1fd5ef1,2021-05-14 22:41:06.016300,U01UJ9PA0MB,2021-05-17 10:23:24.006200,1,['U01UTGS5ZNY'],https://github.com/hongdoi/,"Hi mọi người, mình gửi Home Assignment 2
+<https://github.com/hongdoi/datacracy-atom--doi-thi-hong-/blob/main/Doi_Thi_Hong%7C_Home_Assignment_2.ipynb>",U01UTGS5ZNY,
+C021FSDN7LJ,e95268ab-eaae-4a79-9b9a-98a7ebcfd66c,2021-05-14 22:07:52.015600,U01UMBW8G8J,2021-05-22 20:07:02.018300,2,"['U01UTGVPE7N', 'U01UMBW8G8J']",https://github.com/ngocvu74/,"Hi các bạn, mình gửi bài Home Assignment 2
+<https://github.com/ngocvu74/atom-assignments/blob/main/ATOM_%7C_Home_Assignment_2_Vu_Thi_Bao_Ngoc.ipynb>",U01UTGVPE7N,U01UMBW8G8J
+C021FSDN7LJ,df4b3968-7ba5-4a13-ab6d-631a75f78914,2021-05-14 21:48:22.014500,U01UMC0N5U2,2021-05-22 19:30:18.017600,3,"['U01UMJ36QD9', 'U01UMC0N5U2', 'U01UMBW8G8J']",https://github.com/chuviethongfpt/,"Hi anh chị, em xin phép gửi bài tập Assignment 2 ạ
+<https://github.com/chuviethongfpt/atom-assignments>",U01UMJ36QD9,U01UMC0N5U2
+C021FSDN7LJ,c9d22c45-c02c-490f-b2da-2800648ebb6a,2021-05-14 00:24:49.011300,U01UTGT8CVA,2021-05-21 21:10:06.006600,1,['U01UMJ451V1'],https://github.com/ngttnguyen/,"Chào các bạn, mình gởi bài Assignment
+<https://github.com/ngttnguyen/atom-assignments/blob/main/assignment_2/README.md|Assignment2>",U01UMJ451V1,
+C021FSDN7LJ,a18bf84e-b4e4-4187-b3c4-5314e1da9847,2021-05-13 22:51:39.010600,U01UJ9PRT5K,2021-05-16 10:26:14.000100,1,['U01UJ9PRT5K'],https://github.com/hieulam1312/,"Chào cả nhà,
+
+Em gửi bài Assignment 2.
+<https://github.com/hieulam1312/atom-assignments/blob/main/assignment_2/Assingement%20%232.ipynb>
+Hẹn gặp mọi người vào Thứ 7 ạ. :sunflower:",U01UJ9PRT5K,
+C021FSDN7LJ,560D7458-B2E8-405F-9B71-4D7F8086AE77,2021-05-13 12:01:16.006600,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,"@channel vì tuần này gửi assignment vào t3 và cũng có nhiều ý kiến cần thêm tgian làm:
+• Mình dời deadline sang trước sáng t7 nha
+• Mọi người nhớ review bài cho các bạn khác nha",,
+C021FSDN7LJ,527be25e-d82e-4439-b4c9-d36c55f31ae8,2021-05-13 11:08:52.003400,U01V00P4S2V,2021-05-21 11:40:21.004900,1,['U01UMC0N5U2'],https://github.com/vuthanhdatt/,"Hi mọi người. Em gửi assignment 2 ạ:
+<https://github.com/vuthanhdatt/atom-assignments/blob/main/assignment_2/ATOM_Home_Assignment_2.ipynb>",U01UMC0N5U2,
+C021FSDN7LJ,74C5D68B-675F-46F2-9BE0-0D7A1A70F79F,2021-05-13 07:54:35.001100,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,File json nha e ơi. Để chị chỉnh lại assignment,,
+C021FSDN7LJ,7675d9c2-66b8-4a58-bd12-3eb95bd7b79d,2021-05-13 05:31:16.001900,U01V082PLN5,2021-05-23 09:40:51.021200,1,['U01V00P4S2V'],https://github.com/interphuoc/,"<https://github.com/interphuoc/atom-assignments/tree/main/assignment_2>
+Hi mọi người, em xin phép gửi Home Assignment 2. Chúc mọi người một ngày năng suất.",U01V00P4S2V,
+C021FSDN7LJ,6e299b15-1955-4bc4-bbb2-53fe79ce2a8f,2021-05-13 01:19:36.006800,U01UMJ36QD9,2021-05-21 09:35:46.002000,2,"['U01V00JK9LH', 'U01UMJ36QD9']",https://github.com/Quan030994/,"Hi mọi người, em gửi link Assignment_2 của mình:
+<https://github.com/Quan030994/atom-assignments/tree/main/assignment_2>",U01V00JK9LH,U01UMJ36QD9
+C021FSDN7LJ,addb16a5-17ca-418d-b19e-97c6a0c58625,2021-05-13 00:34:12.006100,U01UEJG8KHU,2021-05-23 09:13:54.020700,1,['U01V00P4S2V'],https://github.com/trangnguyen-n3t/,"Em gửi assignment w2 ạ. 2 file env_variable do em để local nên code sẽ không chạy nếu chưa thêm 2 file đó vào ạ.
+<https://github.com/trangnguyen-n3t/atom-assignments/blob/69e2497886cf3eee89c5f55fc37d0b68cbf36d5c/NguyenThiThuyTrang_%7C_Home_Assignment_2.ipynb|NguyenThiThuyTrang_|_Home_Assignment_2.ipynb>",U01V00P4S2V,
+C021FSDN7LJ,7f9161f5-815d-4442-99ed-2ad1d4d29df4,2021-05-12 22:50:48.004000,U01UQGZHSTZ,2021-05-13 07:54:35.001100,1,['U01BE2PR6LU'],https://github.com/toantran2206/,"[Hỏi ngu]Mình muốn hỏi 3 thông tin: Sender email, pwd, api key của mình sẽ lưu vào file env_...py hay env_...json ạ? Vì code của, To do 2, em thấy có tập tin json mà assignment trên web thì là py. Xin cảm ơn ạ.
+<https://github.com/toantran2206/atom-assignments/blob/c9ad7c8a04f075a50d62ba6279fbbd56cf87978c/assignment_2/ATOM_Home_Assignment_2.ipynb>",U01BE2PR6LU,
+C021FSDN7LJ,88d6f1bf-09ee-44eb-9d3e-f37853e01166,2021-05-11 19:11:45.002800,U01UJ9MUADT,1970-01-01 07:00:00.000000,0,0,,Bạn nào bị chặn không vào đc medium của link How to Set Up Your Professional Data Science Environment có thể vào link dưới đây nhé: <https://medium0.com/learn-love-code/how-to-set-up-your-professional-data-science-environment-6df74eb06aa4|https://medium0.com/learn-love-code/how-to-set-up-your-professional-data-science-environment-6df74eb06aa4>,,
+C021FSDN7LJ,d2c97dff-e661-43ea-91b7-a9c70c2824c5,2021-05-11 09:06:32.000200,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,"*ASSIGNMENT 2: Mailbot, API, Web Scrapping, Json*
+----
+Hi <!channel>,
+Một tuần mới lại đến. Sau khi chốt lịch hôm qua, chắc các learners đang miệt mài review bài của nhau.
+Tuần này chúng ta sẽ có 1 Assignment lý thú hơn và bớt nặng hơn. Nhưng sẽ giúp các learner có thời gian ngấm lại kiến thức cũ, và có thể practice thông qua Assignment 2 này.
+
+:tada: :point_right: <https://anhdang.gitbook.io/datacracy/atom/2-data-tools-1/home-assignment2|HOME ASSIGNMENT 2>
+----
+:red_circle: Bất kỳ câu hỏi thắc mắc nào các bạn hãy raise trong channel này nhé
+:red_circle: Bài tập Đợt 1 hoàn thành và post link trong channel này `trước *5h chiều, Thứ 5 hàng tuần` (để các mentors review general)*
+:red_circle: *Bài tập* “Last Chance”: Sau buổi học, học viên có thể hoàn chỉnh thêm assignment theo nội dung review trong lớp học, và submit lại `trước *12h trưa Chủ nhật` (sau buổi học)*",,
+C021KLB0DSB,bc6cdf1d-67ab-440c-bd1a-eeddb1184d65,2021-06-05 12:09:15.010300,U01UJ9P1S3X,1970-01-01 07:00:00.000000,0,0,,"cảm ơn mn hôm nay, cả nhà cuối tuần vui vẻ nha! À cẩn thận an toàn nữa! :3",,
+C021KLB0DSB,3eaa2272-a6cc-410e-ab12-24465045e33e,2021-06-05 10:48:40.008500,U01UJ9P1S3X,1970-01-01 07:00:00.000000,0,0,,nhất trí hahaha :)))),,
+C021KLB0DSB,226db136-768a-4070-a582-dea83d390969,2021-06-05 10:48:18.008200,U01V00LQ7EV,1970-01-01 07:00:00.000000,0,0,,:fire:,,
+C021KLB0DSB,541321d9-0764-4d17-a7f6-7563e78f3b0d,2021-06-05 10:48:13.008000,U01V00LQ7EV,1970-01-01 07:00:00.000000,0,0,,Chúng ta cùng biến idea bùng sáng thành bùng cháy nhé =]]]]]]]],,
+C021KLB0DSB,7af820b3-d1bb-493d-aeb7-66751a29a92c,2021-06-05 10:47:38.007000,U01UJ9P1S3X,1970-01-01 07:00:00.000000,0,0,,Keke cảm ơn anh Long nhiều nha! :smile:,,
+C021KLB0DSB,930b40ca-edf7-4f73-8a26-989129af160a,2021-06-05 10:47:20.006700,U01V00LQ7EV,1970-01-01 07:00:00.000000,0,0,,:heart:,,
+C021KLB0DSB,7b159079-49e2-4d85-b8a3-a2f9d418480e,2021-06-05 10:47:11.006500,U01V00LQ7EV,1970-01-01 07:00:00.000000,0,0,,Idea nào cũng hay và bừng sáng hết :smile:,,
+C021KLB0DSB,804a1b28-8b4c-4b4a-a8fa-ba80a72fcae6,2021-06-05 10:47:01.006000,U01V00LQ7EV,1970-01-01 07:00:00.000000,0,0,,Cám ơn những chia sẻ của mọi người nhé,,
+C021KLB0DSB,3c57443d-347d-40b5-9b1c-efbcf5602869,2021-06-05 10:00:52.005200,U01V00LQ7EV,1970-01-01 07:00:00.000000,0,0,,Mọi người vô hết chưa :smile:,,
+C021KLB0DSB,047cad21-667e-4c20-8872-f1e491653da6,2021-06-05 10:00:38.004700,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,"Ai chưa zô thì zô phòng nha mng:
+<https://datacracy.slack.com/archives/C01B4PVGLVB/p1622861996007000>",,
+C021KLB0DSB,6aa17ec6-3f72-4413-96f4-ce08e3aece77,2021-06-05 10:00:04.004200,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,<https://datacracy.slack.com/archives/C01B4PVGLVB/p1622861996007000>,,
+C021KLB0DSB,a3dc3cc9-5040-4bd9-aec1-904f7e50e4ed,2021-06-05 09:58:23.004000,U01UJ9P1S3X,1970-01-01 07:00:00.000000,0,0,,rồi anh :smile:,,
+C021KLB0DSB,e23498be-ee67-43d0-9548-1c314e25f85c,2021-06-05 09:58:06.003700,U01V00LQ7EV,1970-01-01 07:00:00.000000,0,0,,Em chờ xíu chắc sẽ có,,
+C021KLB0DSB,6207d6fd-e878-4bdd-bf4b-d76c744116b0,2021-06-05 09:57:56.003300,U01UJ9P1S3X,1970-01-01 07:00:00.000000,0,0,,dạ em vẫn đang ở ngoài :joy: chưa thấy lời,,
+C021KLB0DSB,513655b5-45a2-49ed-afb3-8554c248bea4,2021-06-05 09:57:49.002900,U01UMJ4J38B,1970-01-01 07:00:00.000000,0,0,,Chị chưa Thảo ơi,,
+C021KLB0DSB,07fe8f48-a459-4b7d-853c-7fedf05bb66e,2021-06-05 09:57:21.002000,U01V00LQ7EV,1970-01-01 07:00:00.000000,0,0,,đang chờ mọi người,,
+C021KLB0DSB,3b8fdd6c-852f-4cc5-9522-e2c2a491ce44,2021-06-05 09:57:16.001700,U01V00LQ7EV,1970-01-01 07:00:00.000000,0,0,,Anh vô rồi,,
+C021KLB0DSB,5a7119ae-92d6-4fcc-bf81-2fbb069d3a10,2021-06-05 09:57:05.001400,U01UJ9P1S3X,1970-01-01 07:00:00.000000,0,0,,ủa mn vô group chưa mn ơi?,,
+C021KLB0DSB,a6cfc0cd-5bbe-4286-b1ef-d5146368f66a,2021-06-03 16:11:19.002300,U01UMJ451V1,2021-06-04 01:24:33.003200,2,"['U01BE2PR6LU', 'U01UMJ451V1']",,"Dạ chị <@U01BE2PR6LU> cho em hỏi thêm 1 câu nữa ạ, code trích msg_df ở assignment 4 thì em trích được đầy đủ thông tin, nhưng paste sang assignment 5 thì chi trích được 13 dòng. Mặc dù là cùng token và chạy gần như cùng lúc ạ?",U01BE2PR6LU,U01UMJ451V1
+C021KLB0DSB,63ad890b-9088-4130-aa53-c893b7d93bce,2021-05-28 22:36:35.010600,U01V00LQ7EV,2021-05-28 22:37:07.010800,1,['U01UJ9P1S3X'],,Tuần này chưa thấy bài nộp của bạn <@U01UJ9P1S3X> :eyes:,U01UJ9P1S3X,
+C021KLB0DSB,3407628b-3811-48b9-97c7-39b9fefda58f,2021-05-28 22:03:15.009100,U01V00KHHHP,2021-05-29 08:53:37.000500,2,"['U01V00LQ7EV', 'U01V00KHHHP']",,"thật ngại khi em toàn hỏi ngu :joy: nhưng cho em hỏi, LEFT JOIN và RIGHT JOIN thì làm sao mình biết được bảng nào nằm bên trái, bảng nào bên phải để sử dụng đúng ạ? Ý em là vị trí ấy ạ",U01V00LQ7EV,U01V00KHHHP
+C021KLB0DSB,8f212514-4e6e-4d6a-ba48-30b4cea07543,2021-05-26 16:50:46.000800,U01V00LQ7EV,2021-05-28 16:44:54.002700,2,"['U01UMJ451V1', 'U01V00LQ7EV']",,"Hi <!channel>, mọi người đã làm bài tập tới đâu rồi hay chia sẽ về tiến độ của mình nhé:mega:",U01UMJ451V1,U01V00LQ7EV
+C021KLB0DSB,3b934c1a-722e-4b43-bf4a-8fba54daf7a1,2021-05-25 23:36:22.007600,U01UTGVPE7N,2021-05-29 01:29:43.011300,3,"['U01BE2PR6LU', 'U01V00LQ7EV', 'U01UTGVPE7N']",,"Hi mn, e hỏi một tẹo ạ:
+1. assignment #3 - slack API, nếu trong trường hợp mà mình muốn automate việc update data , ví dụ như là nếu có một bạn submit assignment lên channel thì data trong file spreadsheet đã tạo cũng sẽ ghi nhận thông tin này luôn, thì mình sẽ làm như thế nào ạ?
+2. assignment #4 -
+`channel_df = channel_df.replace('', np.nan) # -&gt; replace khoảng trắng bằng giá trị NULL (nan)`
+==&gt; `np.nan` có khác biệt gì so với `'nan'` ạ?",U01BE2PR6LU,U01V00LQ7EV
+C021KLB0DSB,05a37f0a-2112-444d-918b-3e2b9d511498,2021-05-25 11:15:43.002100,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,Tuần này anh Rồng sẽ lên walk-through cái này phải k ạ?,,
+C021KLB0DSB,7368738c-315c-432a-9668-3f5e1d30ee79,2021-05-25 10:47:34.001900,U01V00LQ7EV,2021-05-25 11:59:15.004400,3,"['U01BE2PR6LU', 'U01UJ9P1S3X', 'U01V00LQ7EV']",,"Hi group 3, mọi người tranh thủ sắp xếp review trước bài tập 4 nhé. Bài tập này rất thú vị và là một trong những skill quan trọng cho những bạn làm về Data, chắc chắn sẽ có nhiều câu hỏi thú vị rất gì và này nọ :grin:",U01BE2PR6LU,U01UJ9P1S3X
+C021KLB0DSB,32ff52dc-e66d-4ff3-b35e-d54cee5c290a,2021-05-22 18:27:27.011800,U01UTGVPE7N,2021-05-25 01:11:57.000500,3,"['U01V00LQ7EV', 'U01UTGVPE7N', 'U01UMJ451V1']",,"Hi mọi người, chuyện là em đang làm assignment3 thì em có gặp phải 2 lỗi này:
+• !ls =&gt;&gt; 'ls' is not recognized as an internal or external command,
+operable program or batch file.
+(mặc dù lỗi này cũng không ảnh hưởng gì đến bài làm của em vì em vẫn chạy được bài như thường nhưng mà =&gt; em có tham khảo cách ở đây nhưng mà cuối cùng cũng ko fix được <https://stackoverflow.com/questions/49032646/ls-is-not-recognized-as-an-internal-or-external-command-operable-program-or-b>)
+• mỗi lần em chạy lại bài thì trước khi import modules được thì em phải pip install các modules đó. 
+Không biết mọi người có giải pháp nào xử lý tình huống của em ko ạ?
+
+P.s: mọi người ơi, nhờ datacracy em mới học python luôn ý nên thực sự em gà mờ lắm ạ hix :cry:",U01V00LQ7EV,U01UTGVPE7N
+C021KLB0DSB,1da95c40-9e31-48e6-8bea-43057b996d55,2021-05-22 09:10:07.005700,U01V00LQ7EV,1970-01-01 07:00:00.000000,0,0,,"Để  tạo môi trường trao đổi thân thiện, không áp lực,  hãy gọi mình là Anh Rồng nhé :grin:",,
+C021KLB0DSB,05cf9189-aaee-441c-a60f-ade232631cfa,2021-05-22 09:08:03.003500,U01V00LQ7EV,1970-01-01 07:00:00.000000,0,0,,Mọi người tranh thủ nộp bài lại cả những bài lần trước nhé.,,
+C021KLB0DSB,f8eb7c8e-0769-4c21-8ee7-510d736a5c39,2021-05-22 09:06:25.002300,U01V00LQ7EV,1970-01-01 07:00:00.000000,0,0,,Hellu Thao Le,,
+C021KLB0DSB,234b8c1c-834b-47de-85c5-46dc7c8f6339,2021-05-22 09:06:06.001400,U01UJ9P1S3X,1970-01-01 07:00:00.000000,0,0,,Hellu anh Long :)),,
+C021KLB0DSB,447be7f1-14e5-44a6-9bbc-315fb868230d,2021-05-22 09:06:01.001100,U01V00LQ7EV,2021-05-22 09:12:14.006500,3,"['U01UJ9P1S3X', 'U01V00LQ7EV', 'U01UTGVPE7N']",,Không biết mọi người đã nộp bài hết chưa ?,U01UJ9P1S3X,U01V00LQ7EV
+C021KLB0DSB,3f79e3e1-099e-4760-9341-f0028e70fa48,2021-05-22 09:05:45.000700,U01V00LQ7EV,1970-01-01 07:00:00.000000,0,0,,Hi các thành viên nhóm 3,,
+C021KLB0DSB,c92bdc8d-48be-4578-b99e-8c0dc9248b70,2021-05-22 00:16:44.003700,U01UJ9LG5U5,1970-01-01 07:00:00.000000,0,0,,"Vì ngày mai mình có việc nên không thể tham gia buổi học được, chắc sẽ catch up lại với mọi người sau. Liên quan đến bài assignment 3 này, thay vì mình chia sẻ như thường lệ, mình note ở đây nhé. Bài này nhẹ hơi so với bài assignment 2 trước đó, mình học được: cách sử dụng API để lấy data dung google sheet để lưu trữ, biết thêm được một vài funtion python như tạo hàm (def, tạo dictionary), cách khai báo biến int, sử dụng hàm điều kiện if else, … theo mình thấy vì viết python quan trọng nhất là cách suy nghĩ để giải 1 vấn đề, cú pháp thì hiểu/nhớ để sử dụng và indentation cũng khá quan trọng,...",,
+C021KLB0DSB,7f39c5f8-a76c-456e-876d-6e8429b9e9b6,2021-05-21 22:55:22.002100,U01V00LQ7EV,1970-01-01 07:00:00.000000,0,0,,Cả 2 file không được up lên nhé em,,
+C021KLB0DSB,95681598-778e-4bd6-b539-1517206f2416,2021-05-21 22:53:19.001700,U01V00KHHHP,1970-01-01 07:00:00.000000,0,0,,Mn ơi cho em hỏi chút là nếu có 2 file trùng tên ở 2 location khác nhau thì lúc mình bỏ tên file vào gitignore thì cả 2 file đó cùng ko được upload lên hay chỉ 1 file được upload lên thôi ạ?,,
+C021KLB0DSB,94144ab3-a42f-41e0-b215-9884c1a4a539,2021-05-20 23:53:32.006000,U01V00LQ7EV,1970-01-01 07:00:00.000000,0,0,,"<!channel> Dear cả nhà, không biết mọi người làm có gặp những khó khăn gì không, hãy post lên đây để chúng ta cùng sửa lỗi và học hỏi nhau nhé.:raised_hands:",,
+C021KLB0DSB,2946f994-fb6c-47f3-9643-0f49900237a4,2021-05-20 22:35:08.003700,U01UTGT8CVA,2021-05-22 08:52:48.000300,2,"['U01V00LQ7EV', 'U01UTGT8CVA']",,"Trong ví dụ bài Python 2 về hàm, mình thấy hàm Min sử dụng Key rất hay. Nhưng trong ví dụ, hàm được gọi ở Key chỉ có 1 tham số truyền vào. Mình ko biết nếu hàm được gọi ở Key có nhiều hơn 1 tham số truyền vào thì mình sẽ truyền như thế nào trong lúc gọi hàm Min(, key).
+Ví dụ:
+*def add_2num(x,y):*
+    *return(x,y)*
+*# Try to pass 2 argument to function called in min* 
+*x1 = 1*
+*y1 = 2*
+
+*x2 = 3*
+*y2 = 4*
+
+*min(x1, y1, x2, y2, key = add_2num) #* _Mình gọi như thế này thì nó báo lỗi_",U01V00LQ7EV,U01UTGT8CVA
+C021KLB90GP,77854cb3-e197-41e7-b4dc-f1296d593ace,2021-06-05 10:00:42.000200,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,"Ai chưa zô thì zô phòng nha mng:
+<https://datacracy.slack.com/archives/C01B4PVGLVB/p1622861996007000>",,
+C021KLB90GP,62f7d6fc-81f6-4f11-8d40-9b8048ac8205,2021-05-28 21:33:50.007500,U01UMJ36QD9,1970-01-01 07:00:00.000000,0,0,,"• Hi mn, mn làm assignment 4 thế nào rồi? 
+• Trong quá trình làm mình có để ý có một vấn đề liên quan đến những bạn đã nộp bài. Ví dụ như bạn ""*Việt Hồng Chu*"" đã nộp bài ở Assignment 3 rồi nhưng khi query những Learner chưa làm Assignment 3 thì lai có thông tin bạn. Mình kiểm tra thì do chỗ code lấy thông tin ""*3. Message Data*"" đang lọc theo điều kiện phải có key ""*client_msg_id*"". 
+• Mình có tìm hiểu thì do những message nào có attachments thì trong file JSON get từ API sẽ không có thông tin key ""*client_msg_id*"".  Các bạn lưu ý điều này nhé. Và mình cũng bổ sung vấn đề này là một trong những rules khi submit hay re-sumit các Assignment.  Không biết bạn nào gặp trường hợp này không? và có cách lý giải khác thì bổ sung giúp mình nhé. Cảm ơn mn",,
+C021KLB90GP,874532f6-947e-4fed-9cd4-226cef2d349d,2021-05-22 14:43:47.011900,U01UTGRMGEQ,1970-01-01 07:00:00.000000,0,0,,"Cảm ơn bạn nhé, nhưng vẫn bị lỗi 'members' đấy, có vẻ key này ko dùng đc nữa rồi :smiling_face_with_tear:",,
+C021KLB90GP,bae2c768-f90c-499b-89c9-c37123f3ef91,2021-05-22 12:48:38.006600,U01UMJ36QD9,1970-01-01 07:00:00.000000,0,0,,Mọi người ai có vướng mắc hay có những gì cần chia sẻ thêm về các assignment thì mọi người nêu lên để cùng thảo luận nhé. :smile: Cảm ơn mn.,,
+C021KLB90GP,0589559d-00ae-44f5-a5f9-97eec9abff00,2021-05-22 09:15:16.004700,U020P6WPAQJ,1970-01-01 07:00:00.000000,0,0,,Bất kỳ câu hỏi hoặc vấn đề nào mọi người gặp phải có thể raise lên đây rồi mình cùng trao đổi. Giờ quay lại lớp học  nào :smile:,,
+C021KLB90GP,3df416e9-b863-43e6-babe-98e02747558b,2021-05-22 09:14:26.003700,U020P6WPAQJ,1970-01-01 07:00:00.000000,0,0,,"Chào mọi người, Group 4 mình trao đổi trên channel này nhé",,
+C021KLB90GP,2d6d8ae8-44a3-4529-affc-197cd5ee868a,2021-05-22 09:11:07.003200,U01UMJ36QD9,1970-01-01 07:00:00.000000,0,0,,hi mn,,
+C021KLB90GP,5f7fe4d8-cd9c-42cb-a498-9b6327751d47,2021-05-22 09:10:57.003000,U01UMBZHU2W,1970-01-01 07:00:00.000000,0,0,,chào mọi  người  ạ  ^^,,
+C021KLB90GP,83039ee3-2ff6-417c-ac4b-b7ef5d955e2b,2021-05-22 09:10:54.002900,U01UTGRMGEQ,1970-01-01 07:00:00.000000,0,0,,Xin chào :smile:,,
+C021KLB90GP,a3eaef49-0fef-4504-b34b-e0b6022f0674,2021-05-22 09:10:39.002600,U01VB632FPS,1970-01-01 07:00:00.000000,0,0,,Hi mọi người :))),,
+C021KLB90GP,613EECA4-4792-47F9-8513-70202483F010,2021-05-17 12:42:00.001300,U020P6WPAQJ,1970-01-01 07:00:00.000000,0,0,,Ukie Mai Anh,,
+C021KLB90GP,0b2c2340-b09e-41c8-9cd3-bb8338bbdbbd,2021-05-17 12:09:32.001000,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,Đúng rồi ạ. <@U020P6WPAQJ> mời các bạn learner vào giúp em với,,
+C021KLB90GP,c1090248-6b55-43d6-9e18-4ae548240a78,2021-05-17 11:45:39.000600,U020P6WPAQJ,1970-01-01 07:00:00.000000,0,0,,<@U01BE2PR6LU> ơi group này mình dùng để discuss về các bạn learner trong Group 4 hay sao nhỉ?,,
+C0220KU9399,698ecb7c-edae-4b86-84be-ad7b8dac7c8b,2021-06-05 10:00:26.004600,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,"Ai chưa zô thì zô phòng nha mng:
+<https://datacracy.slack.com/archives/C01B4PVGLVB/p1622861996007000>",,
+C0220KU9399,d43b724b-fe90-4b11-901f-a80e0661820d,2021-06-04 17:46:07.001300,U01UJ9PA0MB,1970-01-01 07:00:00.000000,0,0,,"Mọi người ơi, cho mình hỏi table đã tạo trong big query thì có cách nào đổi lại tên table được không? Mình không tìm ra cách để đổi mà nếu xóa bảng đi tạo lại thì hơi mất thời gian.",,
+C0220KU9399,A44F2F67-48A8-4D32-AAD4-C2BC31BCD509,2021-06-01 23:18:22.001400,U01U6JQB695,2021-06-02 10:54:30.002100,2,"['U01UMC0N5U2', 'U01U6JQB695']",,"Hiuhiu, hình như lại bị leak key nữa rồi, có ai biết tạo key ko cho mình xin với ạ, mình chưa có time nguyên cứu cách tạo :(",U01UMC0N5U2,U01U6JQB695
+C0220KU9399,ee4ad3b9-6fa0-4e32-acaa-9f1ce874f770,2021-05-26 07:45:27.000900,U01UJ9PA0MB,2021-05-26 12:08:13.003600,2,"['U01UMC0N5U2', 'U01UJ9PA0MB']",,"Hi mọi người, cho mình hỏi hơi ngâu chút. Làm sao để lấy được file datacracy_groups.csv đưa lên colab được vậy?",U01UMC0N5U2,U01UJ9PA0MB
+C0220KU9399,c653e9b6-b3af-4afc-9ad2-ae6d280d5d7c,2021-05-26 00:15:59.020600,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,"<@U01V082PLN5>
+• Em có thể add vô cái ý e sẽ propose cái gì để giải quyết các case như thế này nằm trong TODO#3 á em =&gt; Hints: Em có thể cân nhắc <https://slack.com/intl/en-vn/help/articles/360035692513-Guide-to-Workflow-Builder|Slack Workflow Builder> để đưa việc submit của mọi ng thành template dễ quản lý hơn. Hoặc ra rules cho mọi ng để hashtag chi đó chẳng hạn. 
+• Về việc fix bằng code thì cũng có thể post-logic nào đó. Ví dụ lấy timestamp cuối cùng của cùng 1 người nộp bài (theo user_id)
+=&gt; Good question! Cho chị post qua channel chung nha",,
+C0220KU9399,c93a31f5-e005-4efc-b1c2-2f1e5a8e4cfd,2021-05-25 20:17:48.020200,U01UMC0N5U2,1970-01-01 07:00:00.000000,0,0,,Dạ em cảm ơn chị ạ ^^,,
+C0220KU9399,bac8a8a5-f31f-433a-98ed-27d13de3ade8,2021-05-25 20:03:34.019200,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,"Có thể khác tên của columns nhà em. Em có thể thử bằng nhiều cách: <@U01UMC0N5U2>
+1. JOIN bằng user_id và creator =&gt; xem có ra cái gì hem nha
+2. Có 1 số cách thử khác nha: FK thì bắt buộc phải tồn tại trong số PK của bảng gốc, nếu FK mà k tồn tại record nào trong PK gốc thì hơi coá chuyện :disappointed: ",,
+C0220KU9399,ee5e55fa-c593-4de4-ba9e-4349d032f0ba,2021-05-25 14:31:37.016900,U01UMC0N5U2,1970-01-01 07:00:00.000000,0,0,,"Dạ em cảm ơn chị, để em nghiên cứu kỹ lại :sweat_smile:",,
+C0220KU9399,e6833cd7-03ff-4de6-9e4a-ed29a39e51d1,2021-05-25 14:30:33.015900,U01UMBX2X18,1970-01-01 07:00:00.000000,0,0,,"thông thường thì mình sẽ cần kiếm tra thật sự creator đó chính là user_id không ?
+nếu như là  trùng với với user_id thật thì có thể set đây là FK để link với user_df vào user_id nha :smile:",,
+C0220KU9399,fe875e66-bb37-4c1b-ae39-0072c9531413,2021-05-25 14:24:38.013300,U01UMC0N5U2,1970-01-01 07:00:00.000000,0,0,,"Dạ em hiểu chỗ này, nhưng trong channel_df ko có user_id mà chỉ có creator (theo em thấy thì data của creator cũng giống data user_id) nên em hỏi là nếu ko cùng tên thì em có lấy creator set FK và link với user_id là PK được ko ạ",,
+C0220KU9399,2f06aa8e-eed7-426d-9ac0-7ac4790c4e65,2021-05-25 14:23:08.012200,U01UMBX2X18,1970-01-01 07:00:00.000000,0,0,,1 df thì chỉ có 1 PK thôi - nhưng có thế có nhiều FK,,
+C0220KU9399,ea307a5e-1bf1-49bd-970a-a9a5727a3c76,2021-05-25 14:21:12.010000,U01UMBX2X18,1970-01-01 07:00:00.000000,0,0,,nên có nói dù  cùng 1 user_id nhưng đối với bảng user_df thì là PK nhưng đối với với channel_df thì là FK,,
+C0220KU9399,4ff10102-3000-4297-b4b3-66cb2592c7b5,2021-05-25 14:20:29.009100,U01UMBX2X18,1970-01-01 07:00:00.000000,0,0,,mình sẽ hiểu trong user_df thì user_id sẽ là PK. nhưng user_id trong bảng channel_df sẽ là FK khi mà mình liên kết với bản user_id,,
+C0220KU9399,082b34bb-d3de-4490-952f-4da613ac6237,2021-05-25 14:18:22.008100,U01UMC0N5U2,1970-01-01 07:00:00.000000,0,0,,"Trong bt theo em thấy thì user_df có user_id còn trong channel_df có creator. Mà creator cũng là một trong những user_id. Em đang set user_id là PK, nên em hỏi có khi nào PK và FK ko cùng tên nhau nhưng vẫn cùng data ko ạ?",,
+C0220KU9399,8f990ae6-e2e3-4717-a577-56afe6bf6ef6,2021-05-25 14:13:45.002600,U01UMBX2X18,1970-01-01 07:00:00.000000,0,0,,Hồng có thể nói rõ hơn không,,
+C0220KU9399,ad1dbea8-648c-4043-8345-7c8490a8d652,2021-05-25 14:08:38.001400,U01UMC0N5U2,1970-01-01 07:00:00.000000,0,0,,Cho em hỏi chỗ PK vs FK xí ạ. Có khi nào PK là A nhưng FK lại đổi tên thành B (vẫn có cùng 1 data) không ạ?,,
+C0220KU9399,25a236ff-2301-4dac-a3b0-f77d457c2510,2021-05-25 13:02:17.000100,U01UMBX2X18,1970-01-01 07:00:00.000000,0,0,,Mọi người làm bài tập có chỗ nào bị vướng không? Nếu có mọi người cứ trao đổi trên group nha,,
+C0220KU9399,2c6457f9-25f8-49dc-894a-a0be4f2a2eef,2021-05-21 10:32:46.008000,U01UMC0N5U2,1970-01-01 07:00:00.000000,0,0,,"Dạ em làm được rồi, em cảm ơn 2 chị ạ :tada::smiling_face_with_3_hearts:",,
+C0220KU9399,3ceee452-73ec-4f2c-ad8b-03042d3d72c5,2021-05-21 10:21:31.006500,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,Enable rồi đợi vài phút,,
+C0220KU9399,9077dcff-15eb-4deb-9285-500e4675a830,2021-05-21 10:21:20.006100,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,"=&gt;
+```Google Sheets API has not been used in project 1065198328534 before or it is disabled. Enable it by visiting <https://console.developers.google.com/apis/api/sheets.googleapis.com/overview?project=1065198328534> then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.```
+",,
+C0220KU9399,7f9c618a-de43-4214-b7b3-f6d9fdbc3aab,2021-05-21 10:21:10.005900,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,Có cái link á e bấm vô rồi enable nó nha,,
+C0220KU9399,17c8982b-eee0-4886-aa91-3e1b56ec70cd,2021-05-21 10:20:58.005600,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,E chưa enable Google API trên Google Console,,
+C0220KU9399,a8d19cf8-8817-4de3-b05f-b5215486723c,2021-05-21 10:20:57.005500,U01UMC0N5U2,1970-01-01 07:00:00.000000,0,0,,Dạ đây ạ,,
+C0220KU9399,7fbbbc54-89d0-4a35-8207-834319f635f7,2021-05-21 10:20:42.005000,U01UMC0N5U2,1970-01-01 07:00:00.000000,0,0,,"```---------------------------------------------------------------------------
+APIError                                  Traceback (most recent call last)
+&lt;ipython-input-30-4411cedf7607&gt; in &lt;module&gt;()
+      2 spreadsheet_key = '1XFv2QcX0u8VpxdR-0OeMeWHQmxwF3vzgrOem67AgASE' # input SPREADSHEET_KEY HERE
+      3 sh = gc.open_by_key(spreadsheet_key)
+----&gt; 4 worksheet = sh.get_worksheet(sheet_index_no) #-&gt; 0 - first sheet, 1 - second sheet etc.
+      5 
+      6 # APPEND DATA TO SHEET```
+
+2 frames
+/usr/local/lib/python3.7/dist-packages/gspread/client.py
+``` in request(self, method, endpoint, params, data, json, files, headers)
+     77             return response
+     78         else:
+---&gt; 79             raise APIError(response)
+     80 
+     81     def list_spreadsheet_files(self):
+
+APIError: {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Google Sheets API has not been used in project 1065198328534 before or it is disabled. Enable it by visiting <https://console.developers.google.com/apis/api/sheets.googleapis.com/overview?project=1065198328534> then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."",
+    ""status"": ""PERMISSION_DENIED"",
+    ""details"": [
+      {
+        ""@type"": ""<http://type.googleapis.com/google.rpc.Help|type.googleapis.com/google.rpc.Help>"",
+        ""links"": [
+          {
+            ""description"": ""Google developers console API activation"",
+            ""url"": ""<https://console.developers.google.com/apis/api/sheets.googleapis.com/overview?project=1065198328534>""
+          }
+        ]
+      },
+      {
+        ""@type"": ""<http://type.googleapis.com/google.rpc.ErrorInfo|type.googleapis.com/google.rpc.ErrorInfo>"",
+        ""reason"": ""SERVICE_DISABLED"",
+        ""domain"": ""<http://googleapis.com|googleapis.com>"",
+        ""metadata"": {
+          ""service"": ""<http://sheets.googleapis.com|sheets.googleapis.com>"",
+          ""consumer"": ""projects/1065198328534""
+        }
+      }
+    ]
+  }```
+}",,
+C0220KU9399,8500a257-44a2-4252-bc4d-bd9c7b7e2f15,2021-05-21 10:20:29.004800,U01UMBX2X18,1970-01-01 07:00:00.000000,0,0,,hoặc em copy all lỗi của mình vào group đi,,
+C0220KU9399,59272568-f55e-4694-9d23-90faea3a7a31,2021-05-21 10:20:01.004400,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,Em scroll xuông chụp hết cái error message thử e ơi,,
+C0220KU9399,ec2f1a31-9073-41be-befa-506e151eef43,2021-05-21 10:17:55.004000,U01UMC0N5U2,1970-01-01 07:00:00.000000,0,0,,"Dạ để em thử ạ, em cảm ơn chị",,
+C0220KU9399,343c1ca4-218d-4f86-ac60-0135608d4aa1,2021-05-21 10:17:15.003500,U01UMBX2X18,1970-01-01 07:00:00.000000,0,0,,cái này em thử tạo thêm một API key khác nha,,
+C0220KU9399,83da0095-0471-47ec-982b-3cd7e77708d7,2021-05-21 10:16:53.003000,U01UMC0N5U2,1970-01-01 07:00:00.000000,0,0,,Dạ rồi luôn ạ,,
+C0220KU9399,1f0e49a3-8632-4bc9-a753-4a8732d59fc5,2021-05-21 10:16:39.002800,U01UMBX2X18,1970-01-01 07:00:00.000000,0,0,,googlesheet em tạo đã share edit cho account lấy API chưa em,,
+C0220KU9399,2d7037cc-353b-40d0-91de-a07a8c849358,2021-05-21 10:16:10.002200,U01UMC0N5U2,1970-01-01 07:00:00.000000,0,0,,Dạ làm theo hướng dẫn của gg với assignment hết rồi ạ,,
+C0220KU9399,3b856bb9-1cf3-45bc-922e-d648cd8aa7c2,2021-05-21 10:15:47.001500,U01UMBX2X18,1970-01-01 07:00:00.000000,0,0,,em thực hiện các thao tác tạo API chưa,,
+C0220KU9399,ff22525d-9253-4216-9f9c-c94019bebb28,2021-05-21 09:35:17.000100,U01UMBX2X18,1970-01-01 07:00:00.000000,0,0,,"Mọi người trong group mình ơi, có ai gặp khó khăn gì trong quá trình làm bài tập hông?.",,
+C0220KU9399,0f461e9c-72c5-48cf-bc39-dc1ee79e33ca,2021-05-18 00:13:46.005200,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,"Phát hiện hay. Chị generate token mới rồi nha <@U01V082PLN5>
+<https://datacracy.slack.com/archives/C0227A51SAY/p1621271586026200?thread_ts=1621125580.000400&amp;cid=C0227A51SAY>",,
+C0220KU9399,efd3e6e6-70b2-4084-91ff-74f319dddda3,2021-05-18 00:03:04.004700,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,Account bị inactive để chị check lại nhaaa. But tra lỗi tốt quá nè,,
+C0226D3LEQ4,43DE42A9-9491-48B9-9BD1-279A5CB29D76,2021-05-23 11:48:52.012900,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,"<!channel> Ai thử vs token xong thì gỡ bot nha
+<https://datacracy.slack.com/archives/C0227A51SAY/p1621745223020600|https://datacracy.slack.com/archives/C0227A51SAY/p1621745223020600>",,
+C0226D3LEQ4,E95125C7-4082-4951-89C7-0B2A7CC069A3,2021-05-19 13:38:41.008900,U01UMJ5AQ0K,2021-05-19 19:14:10.009000,1,['U01UJ9PRT5K'],,"Lỗi này mình cũng gặp, là do mình chưa cài module này trong lap. Mình kéo thanh command prompt ở dưới VSC lên hoặc bật cmd ở ngoài type: ""pip3 install gspread"" (tương tự pip3 install abc.. nếu abc chưa cài)",U01UJ9PRT5K,
+C0227A51SAY,51dbe6fd-ee24-4fbe-92ff-7e61d508e873,2021-05-30 21:46:39.001800,U01UTGRMGEQ,1970-01-01 07:00:00.000000,0,0,,"Ớ, bài tuần 3 của em chưa được review đó ạ, em nhờ mọi người liếc qua liếc lại review giúp em miếng ạ. Chin cảm ơn... :pray: :joy:",,
+C0227A51SAY,587e2916-bf39-49d0-b835-38b21115f8ac,2021-05-27 22:30:16.003200,U01USGKQ771,2021-05-30 21:23:57.000800,1,['U01UTGRMGEQ'],https://github.com/TrangNgo1709/,"Em gửi bài tập a :disappointed:
+1. Python: <https://github.com/TrangNgo1709/atom-assignments/tree/main/assignment_3>
+2. Gspreadsheet: <https://docs.google.com/spreadsheets/d/12vukCf6ejoiHnI1tzX3p4ck0NOqbHXsJI1MdNEKrd88/edit#gid=0>",U01UTGRMGEQ,
+C0227A51SAY,6ad84cfe-633c-4746-98a5-987c74255286,2021-05-27 11:51:30.001100,U01U6JQB695,2021-06-01 23:05:41.001000,2,"['U01UTGRMGEQ', 'U01U6JQB695']",https://github.com/Tenderriver/,"Tuần nào cũng nộp bài trễ cả, thật là tội lỗi T_T Mình xin phép gửi phần bài tập ạ
+1. Google sheet: <https://docs.google.com/spreadsheets/d/1g4Kbc70s2_LmtA4EczDjSMZNZK0c8C-xumZ_bmJ3l0k/edit?usp=sharing>
+2. Python (Ex01-04): <https://github.com/Tenderriver/atom-assignments/tree/main/python-for-data>
+3. Assignment 3: <https://github.com/Tenderriver/atom-assignments/tree/main/assignment_3>       ",U01UTGRMGEQ,U01U6JQB695
+C0227A51SAY,5087cd85-dba1-4f28-b0ad-25797cbb3b28,2021-05-26 16:48:44.002300,U01UMBZHU2W,1970-01-01 07:00:00.000000,0,0,https://github.com/tinyvyy/,"Hic vì bữa giờ mạng hông ổn định nên bây giờ mình mới hoàn thành và nộp đc assignment 3. Xin lỗi cả nhà vì nộp trễ ạ  T^T
+• Bài tập Python (tới  Ex3) + Slack  API (to do 2): <https://github.com/tinyvyy/atom-assignments> 
+• Google  Sheet: <https://docs.google.com/spreadsheets/d/1JAQoedvb21EhV-3qm5EPIzsQUxgAlfTJfpRatlrQl80/edit?usp=sharing> ",,
+C0227A51SAY,af6e1eba-3bc2-45de-9aab-996747ece781,2021-05-23 21:51:07.032800,U01UJ9PA0MB,1970-01-01 07:00:00.000000,0,0,https://github.com/hongdoi/,"Hi mọi người, mình gửi assignment 03:
+• Bài tập python + Slack API: <https://github.com/hongdoi/datacracy-atom--doi-thi-hong-/tree/assignment-3>
+• Google sheet: <https://docs.google.com/spreadsheets/d/1PZJQTaSHoXn3FhQ7kvpU-NFKmIaP_jxh262dgggnK9M/edit?usp=sharing>",,
+C0227A51SAY,2f11c243-a2c7-4666-92d7-7421e6194cc1,2021-05-23 16:47:27.031800,U01KDQJ9FCG,2021-05-28 20:12:45.000600,2,"['U01UTGS5ZNY', 'U01KDQJ9FCG']",https://github.com/phanlinh0803/,"Dạ em gửi assignment 03 ạ: <https://github.com/phanlinh0803/atom-assignments/blob/Phan-Linh-assigntment-03/ATOM_%7C_Phan_Linh_assignment_03.ipynb>
+đến task 04 em bị lỗi unauthenticated bên googleapis, trc đó em có tạo đc 1 sheet mới trên cùng 1 ws với todo 2 nhưng ko thấy data được update, sau đó em có tạo lại sheet mới và thực hiện lệnh lại thì bị báo token expired từ googleapis, nên em chưa hoàn thành việc tạo sheet ở todo #4 ạ
+- Spreadsheet: <https://docs.google.com/spreadsheets/d/1DK_TW9a1yBOmGLzOiR7WcbofkUJrk6qw2SSp84625pE/edit#gid=0>
+- Bài tập Python (IP):
+<https://github.com/phanlinh0803/atom-assignments/tree/Phan-Linh-assigntment-03>",U01UTGS5ZNY,U01KDQJ9FCG
+C0227A51SAY,576484FA-289B-47D7-A436-AE60B776EF10,2021-05-23 11:48:21.022300,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,"Slack dùng free nên bị giới hạn app :cry::cry::cry:
+E xài token c tạo nha. Bạn nào đã xong bài thì gỡ bot nha.",,
+C0227A51SAY,f1b8cbbc-ddd0-492f-af5f-1512c2bcdae8,2021-05-23 00:02:07.016100,U01UJ9NKX8D,1970-01-01 07:00:00.000000,0,0,https://github.com/lienanh264/,"Mình gửi link assignment ở đây nhé
+<https://docs.google.com/spreadsheets/d/1_Hsxvxtxak_cnXZeOmRd06ik5X0IdACJTiFN3TtRqPM/edit?usp=sharing>
+<https://github.com/lienanh264/datacracy-atom--lien-anh-/tree/main/Assignment%203>",,
+C0227A51SAY,76162328-fe77-45fb-9652-6db3dd8efe45,2021-05-22 20:00:18.013100,U01UTGRMGEQ,2021-05-30 21:46:39.001800,1,['U01UTGRMGEQ'],https://github.com/nguyenhonghanh2511/,"Em xin gửi lại link Assignment 3 sau khi đã revised <https://github.com/nguyenhonghanh2511/datacracy-atom-Nguyen-T-Hong-Hanh/blob/main/WEEK%203_Link%20of%20assignment%20for%20peer%20review|ở đây> ạ. Python mới hoàn thành 2/6 ạ.
+Chúc cả nhà cuối tuần vui vẻ.",U01UTGRMGEQ,
+C0227A51SAY,f5a36959-0abe-437e-a8cc-7c1481467910,2021-05-22 17:44:16.011200,U01UTGVPE7N,2021-05-31 21:16:12.000200,1,['U01UJ9MUADT'],https://github.com/hoaintp/,"Hi mọi người, em gửi bài tập assignment 3 bao gồm Python set (6/6) + Slack_API:
+<https://github.com/hoaintp/atom-assignments>
+Google sheet: <https://docs.google.com/spreadsheets/d/1grj59muE9MSV2-Vitt0TFEqiiqouHSuEq0ovom4WAlU/edit?usp=sharing>",U01UJ9MUADT,
+C0227A51SAY,21d9f23b-b518-4e78-b0a0-36748d3e7956,2021-05-22 12:31:57.008500,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,<!channel> Mọi người check lại bài tập xem cần đổi thay gì không và review bài tập cho nhau nhé :love_letter:,,
+C0227A51SAY,1410a202-2034-496e-96a4-82c58cee41a3,2021-05-22 09:15:24.006500,U01V00KHHHP,2021-05-24 17:48:55.034700,2,"['U01UTGS5ZNY', 'U01V00KHHHP']",https://github.com/saturn1101/,"Em gửi bài tập ạ:
+1. Python set (toàn bộ 6 bài ạ): <https://github.com/saturn1101/atom-assignments/tree/phuong-assignments/python-for-data>
+2. Bài tập Slack API: <https://github.com/saturn1101/atom-assignments/tree/phuong-assignments/assignment_3>
+3. Google Sheet: <https://docs.google.com/spreadsheets/d/1xcCPh5YOct6-cMZwTdV9KkMQitqSwe6l2P2w3ZSlR0M/edit#gid=0>",U01UTGS5ZNY,U01V00KHHHP
+C0227A51SAY,5d2daa68-9e2a-4431-ab65-557c275e8043,2021-05-22 09:04:46.004300,U01UQGZHSTZ,2021-05-25 22:47:49.000300,2,"['U01V00JK9LH', 'U01UQGZHSTZ']",https://github.com/toantran2206/,"Mình xin gửi bài tâp tuần này ạ.
+Xin cảm ơn.
+<https://github.com/toantran2206/atom-assignments.git>",U01V00JK9LH,U01UQGZHSTZ
+C0227A51SAY,3f4a89cf-5b19-437e-bec0-34cc6b98634b,2021-05-22 08:14:19.003500,U01UJ9P1S3X,2021-05-22 11:58:04.007500,2,"['U01BE2PR6LU', 'U01UJ9P1S3X']",https://github.com/lethuthao1368/,"Chào buổi sáng cả lớp, em xin nộp bài Assignment 3:
+Python: <https://github.com/lethuthao1368/atom-assignments/tree/main/python-for-data>
+Slack_API: <https://github.com/lethuthao1368/atom-assignments/blob/main/assignment_3/home_assignment_3.ipynb>
+Spreadsheet: <https://docs.google.com/spreadsheets/d/1IICUA2Amk3Td3GIGGQb44lLXmXohABxOcTpBT4RHzYw/edit?usp=sharing>
+Cảm ơn mọi người, xíu gặp lại mọi người :)))
+P.s: có 1 note nhỏ là token slack lúc em làm thì không còn dùng được nữa, nên em thử tạo 1 cái mới nhưng không biết có hợp lệ hay không :joy:",U01BE2PR6LU,U01UJ9P1S3X
+C0227A51SAY,addb1c70-12f6-481e-9e05-206f39f585fb,2021-05-22 01:10:24.041100,U01UEJFMUSJ,2021-05-27 15:37:53.002400,1,['U01UTGT8CVA'],https://github.com/nhduonng2803/,"Em nộp bài Assignment 03 ạ:
+Git: <https://github.com/nhduonng2803/Datacracy-atom-nhduong/blob/main/Week03/home_assignment_3.ipynb>
+Spreadsheet: <https://docs.google.com/spreadsheets/d/1zq3io2MA5WYFeRyg8IbH5z16paIIaPkrb3rotepl91Q/edit?usp=sharing>",U01UTGT8CVA,
+C0227A51SAY,2a1b0fd7-ad71-49e6-82b2-5a083f0116ee,2021-05-22 00:42:35.039300,U01UJ9MUADT,2021-05-27 15:31:32.001900,1,['U01UTGT8CVA'],https://github.com/Lulichlam/,"Hi, mình gửi link bài tập nhé:
+Slack: <https://github.com/Lulichlam/atom-assignments/blob/main/assignment_3/home_assignment_3.ipynb>
+Python: <https://github.com/Lulichlam/atom-assignments/blob/main/assignment_3/Python%20exercise%20w3.ipynb>",U01UTGT8CVA,
+C0227A51SAY,2d945983-5699-4444-932c-80c70e88290b,2021-05-22 00:09:03.038700,U01UJ9LG5U5,1970-01-01 07:00:00.000000,0,0,https://github.com/danhpcv/,"Dear all,
+Mình gửi bài assignment 3 nhé:
+Bài 1:Slack_API: <https://github.com/danhpcv/atom-assignments/tree/main/assignment_3>
+Bài 2:Python: <https://github.com/danhpcv/atom-assignments/tree/main/python-for-data>
+Bài 3: spreadsheet: <https://docs.google.com/spreadsheets/d/19ctZvMgvT2ydbnP3QXmPrSm2p70B-R0_SWVgqTouhXw/edit?usp=sharing>
+Mọi người review giúp mình nhé",,
+C0227A51SAY,77700b58-160b-4734-91a5-d0e5be88d3aa,2021-05-21 22:30:55.037200,U01UMBW8G8J,1970-01-01 07:00:00.000000,0,0,https://github.com/ngocvu74/,"Hi mọi người, mình gửi assignment 3
+1/ Set Python và Slack API
+<https://github.com/ngocvu74/atom-assignments/tree/main/Home%20Assignment%203>
+2/ Spreadsheet
+<https://docs.google.com/spreadsheets/d/17s9-PbcZgR4sjATEbDfDQZr_rtaQ27j0ENE3z7zzbms/edit?usp=sharing>",,
+C0227A51SAY,04caa36b-b05b-4632-8d79-6348d42492ea,2021-05-21 16:11:07.033800,U01V00P4S2V,2021-05-23 10:33:45.017800,2,"['U01VB632FPS', 'U01V00P4S2V']",https://github.com/vuthanhdatt/,"Hi mng, em gửi assignment 3 ạ:
+Slack API: <https://github.com/vuthanhdatt/atom-assignments/blob/main/assignment_3/home_assignment_3.ipynb>
+Set Python: <https://github.com/vuthanhdatt/atom-assignments/tree/main/python-for-data>
+Spreadsheet: <https://docs.google.com/spreadsheets/d/1aoQDapFVNtZxqQemsO6hVs_x0DoT4kmNMIJKoeg2GpE/edit#gid=0>",U01VB632FPS,U01V00P4S2V
+C0227A51SAY,ef3b3511-5b36-4e04-a2b0-00dbb45092d5,2021-05-21 09:31:32.028100,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,Tuần này mọi người làm bài tập chăm chỉ đúng hạn ghê. <!channel> vui quá,,
+C0227A51SAY,7e8dda47-6812-4f0d-a975-0a299dcd06df,2021-05-21 08:53:28.027200,U01UTGT8CVA,1970-01-01 07:00:00.000000,0,0,https://github.com/ngttnguyen/,"Hi mọi người,
+Mình xin gởi bài tập  <https://github.com/ngttnguyen/atom-assignments/blob/main/assignment_3/README.md|Assigment3 >.
+Chúc mọi người ngày thứ 6 nhẹ nhàng.:heart:",,
+C0227A51SAY,55d616c5-0564-4094-a0c5-70ca46e44d93,2021-05-21 03:11:33.024700,U01UMJ451V1,1970-01-01 07:00:00.000000,0,0,https://github.com/annaho124/,"Em xin phép gửi bài Assignment#3 ạ. Chúc mọi người một ngày làm việc vui vẻ! :dart:
+• GitHub: <https://github.com/annaho124/atom-assignments/tree/main/assignment_3>
+• Python_for_data: <https://github.com/annaho124/atom-assignments/tree/main/python-for-data>
+• Google Spreadsheet: <https://docs.google.com/spreadsheets/d/1nNlQbhJbdfJLWCYirnHdOSB6i9KNFVPZe1qNTWkgk4o/edit#gid=0>",,
+C0227A51SAY,e593a5e4-630d-4593-82cd-38008295d3f0,2021-05-20 22:48:22.022000,U01UTGRMGEQ,1970-01-01 07:00:00.000000,0,0,https://github.com/nguyenhonghanh2511/,"Xin chào cả nhà, em xin gửi link bài tập tuần 3 <https://github.com/nguyenhonghanh2511/datacracy-atom-Nguyen-T-Hong-Hanh/blob/main/WEEK%203_Link%20of%20assignment%20for%20peer%20review|ở đây> ạ.
+Chúc mọi người ngủ ngon. :blush:",,
+C0227A51SAY,f45f06b9-2fd1-45ff-96c3-f9847ec0500c,2021-05-20 22:03:08.020500,U01UJ9PRT5K,1970-01-01 07:00:00.000000,0,0,https://github.com/hieulam1312/,"Chào mọi người,
+
+Em gửi bài tập tuần này.
+• Python:<https://github.com/hieulam1312/atom-assignments/tree/main/python-for-data>
+• github: <https://github.com/hieulam1312/atom-assignments/blob/main/assignment_3/Hi%E1%BA%BFu%20L%C3%A2m%20_home_assignment_3.ipynb|Hiếu Lâm _home_assignment_3.ipynb>
+• Google spreadsheet: Trong <https://github.com/hieulam1312/atom-assignments/blob/main/assignment_3/README.md|README.md>",,
+C0227A51SAY,8c91eeb1-12c3-414f-b8a6-bc12c995ee3a,2021-05-20 14:55:06.018400,U01VB632FPS,2021-05-23 12:37:44.025500,2,"['U01UJ9MUADT', 'U01VB632FPS']",https://github.com/Ha-Huynh-Anh/,"Hi mọi người, thả nhẹ review cho bài tập mình nhé, xin đa tạ:
+• Name: &lt;U01VB632FPS&gt;
+• Status: DONE 
+• Link:
+Link trả kết quả google sheet: <https://docs.google.com/spreadsheets/d/15kOg9fSJlHgqNc2_96leIaryJm_dDqz8PMbpN9IpTc0/edit#gid=0|Link kết quả spreadsheet>
+Link git hub: <https://github.com/Ha-Huynh-Anh/atom-assignments/tree/Assignment-3-Week-4-Huynh-Anh|Week4- assignment 3 Huynh Anh>",U01UJ9MUADT,U01VB632FPS
+C0227A51SAY,bf001e31-4a9b-48fb-ad73-44028dd45714,2021-05-20 11:20:50.015500,U01UTGS5ZNY,2021-05-24 17:50:55.035000,2,"['U01V00KHHHP', 'U01UTGS5ZNY']",https://github.com/ngochant/,"Chào cả nhà, mình gửi assignment 3  :
+• Practice Python: <https://github.com/ngochant/atom-assignments/tree/main/python-for-data>
+• SLACK API*:* <https://github.com/ngochant/atom-assignments/blob/main/assignment_3/assignment_3_ngocha-new.ipynb>",U01V00KHHHP,U01UTGS5ZNY
+C0227A51SAY,f2e1a077-fdbc-4a3f-b664-22ad160afea8,2021-05-20 11:10:29.013700,U01V00JK9LH,2021-05-21 08:19:59.025500,2,"['U01UMJ5AQ0K', 'U01V00JK9LH']",https://github.com/phamdinhtuan200382/,"em gửi cả lớp phần bài tập của em :
++ *Practice Python*: hoàn thành 4/6
+<https://github.com/phamdinhtuan200382/atom-assignments/tree/main/python-for-data>
++ *SLACK API:* hoàn thành 4/4
+<https://github.com/phamdinhtuan200382/atom-assignments/tree/main/assignment_3>
+*+ Link Sheet:* 
+<https://docs.google.com/spreadsheets/d/1CnhTgWg8Fk3CSAkcxfRPDHW6V6zQ2JvBecmiWNX0vkc/edit?usp=sharing> ",U01UMJ5AQ0K,U01V00JK9LH
+C0227A51SAY,f4fd80b9-40a2-4485-9982-b75885e2bd11,2021-05-20 08:57:36.010800,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,"<@U01VB632FPS> Token lại generate lại nha mọi ng:
+`xoxb-1381900565698-2074738241732-goOCCIOPtzec5Vo9waqvC7CX`",,
+C0227A51SAY,757184a5-84ea-4965-bcc7-33fa3bd5107e,2021-05-19 22:54:24.010400,U01V082PLN5,2021-05-22 22:50:05.014400,2,"['U01V00KHHHP', 'U01V082PLN5']",https://github.com/interphuoc/,"Hi cả nhà, em xin phép submit Home Assignment #3: <https://github.com/interphuoc/atom-assignments/tree/main/assignment_3>
+Chúc cả nhà ngủ ngon.",U01V00KHHHP,U01V082PLN5
+C0227A51SAY,fed967c0-8edc-4e51-a5bf-46aff5ca68fd,2021-05-19 20:51:57.007600,U01UJ9M3P1T,2021-06-01 22:13:57.000500,2,"['U01UMJ451V1', 'U01UJ9M3P1T']",https://github.com/cnhhoang850/,"Chào mọi người, em xin gửi bài tập tuần 3.
+Link github: <https://github.com/cnhhoang850/atom-assignments>
+Link sheet: <https://docs.google.com/spreadsheets/d/1mrHOuXzCOtgsIPQcm-pg8VK6uE3DM91u-RGXO_Vfexs/edit>",U01UMJ451V1,U01UJ9M3P1T
+C0227A51SAY,d67ab549-cb55-4cd5-81ad-6e872e4086c9,2021-05-19 18:41:11.006400,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,"<@U01UMBX2X18> maybe do API bị lỗi á em.
+• E print response_json ra để xem structure của nó nha (or call thử bằng Postman)
+• Nếu API bị lỗi thì likely là do token nha (chị có generate lại token á <https://datacracy.slack.com/archives/C01B4PVGLVB/p1621355288027100>
+• E coi lỗi là gì thì post lên đây xử tiếp nha",,
+C0227A51SAY,ccb864eb-c4c3-4383-a31e-12abc8c7d485,2021-05-19 11:04:03.004200,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,"<!channel> Chào mọi người ngày Thứ tư, mọi người cố gắng bắt đầu làm bài tập nha, đừng để đến đêm cuối lại stress chồng stress nè.
+Cố gắng làm được bao nhiều thì làm hen mọi người, và tăng cường hỏi đáp trên <#C0213MNH9L6|topics-python> hoặc <#C0226D3LEQ4|atom-week3> nếu có bất trắc nha.
+<https://www.youtube.com/watch?v=lzn-rjxuzIk>",,
+C0227A51SAY,58670927-d5fc-46b0-8c86-4d0fdc96d47d,2021-05-19 08:08:13.001400,U01UMJ5AQ0K,2021-05-29 16:48:11.003900,2,"['U01UMJ451V1', 'U01UMJ5AQ0K']",https://github.com/duongphannamhung/,"Em xin nộp assignment 3 : <https://github.com/duongphannamhung/atom-assignments/tree/main/assignment_3>
+Sau bài này nhận ra là việc tuần trước mình nộp bài trễ hoàn toàn có thể bị thống kê dễ dàng :sweat_smile:",U01UMJ451V1,U01UMJ5AQ0K
+C0227A51SAY,9fb761bd-79ee-46ac-bb1b-fe754783b0ca,2021-05-18 23:46:44.002200,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,<https://datacracy.slack.com/archives/C01B4PVGLVB/p1621355288027100>,,
+C0227A51SAY,05a05b75-cea1-4903-aa06-2986e32d46b8,2021-05-18 00:13:06.026200,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,"Token bị inactive: Mọi người thử lại token này nhé (lý do sẽ discuss trong Lab hen:
+`""SLACK_BEARER_TOKEN"": ""xoxb-1381900565698-2074738241732-2FEKCWh9z1rxh11YyIC1WOjN""`",,
+C0227A51SAY,40dd1ba5-c389-4d0c-9bf6-b55beb1116e6,2021-05-17 23:40:12.024900,U01UMJ36QD9,2021-05-17 23:45:24.025500,2,"['U01UJ9P1S3X', 'U01UMJ36QD9']",https://github.com/Quan030994/,"Hi mn, em gửi link Assignment 3:
+<https://github.com/Quan030994/atom-assignments/tree/main/assignment_3>
+Và link của Google Sheet:
+<https://docs.google.com/spreadsheets/d/1mQJRxLHzDPwpP_BAaCdtQGnP_f9ItcNg_dWaMmKs5eA/edit#gid=0>
+Chúc mn ngủ ngon.",U01UJ9P1S3X,U01UMJ36QD9
+C0227A51SAY,16a9f7d5-d733-4ec6-b1dd-e9f6dc6fda6c,2021-05-16 19:08:08.018900,U01UTGRMGEQ,2021-05-17 07:28:49.022900,2,"['U01UJ9PRT5K', 'U01UTGRMGEQ']",https://github.com/nguyenhonghanh2511/,"Xin chào cả nhà! :blush:
+Em xin phép gửi bài tập tuần 2 đã revised ở <https://github.com/nguyenhonghanh2511/datacracy-atom-Nguyen-T-Hong-Hanh/blob/main/WEEK%202_Link%20of%20assignment%20in%20week%202%20for%20peer%20review|link này> ạ.
+Nhân tiện, bài tập tuần 1 của em vẫn chưa được review :smiling_face_with_tear:, nên em gửi lại link <https://github.com/nguyenhonghanh2511/datacracy-atom-Nguyen-T-Hong-Hanh/blob/main/WEEK%201_Link%20of%20assignment%20in%20week%201%20for%20peer%20review|ở đây> để nhờ mọi người giúp em review nhé.
+Em cảm ơn và chúc mọi người cuối tuần thong thả ạ.",U01UJ9PRT5K,U01UTGRMGEQ
+C0227A51SAY,eb6a7d32-4fa8-4d06-bc16-c728b1ecc1f1,2021-05-16 13:02:30.007400,U01UTGRMGEQ,2021-05-16 18:09:22.015400,2,"['U01BE2PR6LU', 'U01UTGRMGEQ']",,"Xin chào mọi người ạ!
+Em gặp lỗi khi mở file ATOM_Home_Assignment_2.ipynb ạ, file home_assignment_3.ipynb thì okay không bị gì.
+Mở bằng VSCode thì báo lỗi: Unexpected token &lt; in JSON at position 6
+Mở bằng Jupyter Notebook thì bị báo NotJSONError(""Notebook does not appear to be JSON: '\\n\\n\\n\\n\\n\\n<!DOCTYPE html>\\n&lt;html lang..."")
+Mở file text thì ra nội dung của 1 file HTML ạ.
+Có ai đã mở được file này thì share kinh nghiệm giúp em với. Em xin cảm ơn ạ. :pray:",U01BE2PR6LU,U01UTGRMGEQ
+C0227A51SAY,9319c904-4000-418b-abec-5c671018c78d,2021-05-16 07:39:40.000400,U01BE2PR6LU,2021-05-19 09:27:36.002200,2,"['U01BE2PR6LU', 'U01UTGS5ZNY']",https://github.com/anhdanggit/,"*ASSIGNMENT #3: Practice Python + SLACK API*
+----
+Hi <!channel>,
+Tuần này chúng ta tiếp thu ý kiến của Learners:
+• Không giới thiệu quá nhiều nội dung mới, nhưng hy vọng vẫn đủ thú vị cho mọi người (_“If she's amazing, she won't be easy. If she's easy, she won't be amazing.”_)
+• Có thêm giải thích applications ở đầu notebooks để mng nắm bức tranh toàn cảnh nè
+• :small_red_triangle_down: Các bạn có thể dùng Github Desktop để update thay đổi trong repo gốc của DataCracy bằng hướng đẫn :boom: <https://github.com/anhdanggit/atom-assignments#readme|HERE> :boom:
+:tada: :point_right: <https://github.com/anhdanggit/atom-assignments/tree/main/assignment_3|HOME ASSIGNMENT #3>
+    ◦ BẮT BUỘC Set bài tập Python tương đối dễ thở (mọi người làm *`&gt;= 3 sets`* (mỗi set gồm Lecture và Exercise). Dễ như làm một lần dễ ngán, nên khuyến khích mỗi ngày làm 1 set.
+    ◦ Slack API + Google Spreadsheet: có 1 phần BẮT BUỘC và 2 phần OPTIONAL
+----
+:green_heart:  Bất kỳ câu hỏi thắc mắc nào các bạn hãy raise trong channel này nhé
+:green_heart: Các channels riêng cho nhóm đã được tạo để tiện trao đổi: #discuss-group1 #discuss-group2 #discuss-group3 #discuss-group4 (Các bạn sẽ sớm được mời vào group nha)
+:red_circle: Bài tập Đợt 1 hoàn thành và post link trong channel này trước buổi học tiếp theo
+:red_circle: *Bài tập* “Last Chance”: Sau buổi học, học viên có thể hoàn chỉnh thêm assignment theo nội dung review trong lớp học, và submit lại `trước *12h đêm Chủ nhật` (sau buổi học)*",U01BE2PR6LU,U01UTGS5ZNY
+C022Q7TGRLG,732194BC-2A05-41DD-91D8-84C402885A35,2021-06-05 15:57:51.005700,U01BE2PR6LU,2021-06-05 21:36:03.005800,1,['U01V00JK9LH'],,<@U01V00JK9LH> trên vscode em bấm vào 1 trong 2 option là solve dc conflict à,U01V00JK9LH,
+C022Q7TGRLG,fdc66818-0b19-4282-aa73-e196f0494640,2021-06-05 14:04:28.004700,U01V00JK9LH,1970-01-01 07:00:00.000000,0,0,,mình có thử như bạn chia sẻ thì màn hình hiện giờ như cái hình mình gửi ở trên á,,
+C022Q7TGRLG,a9ee8af5-f141-4a34-b6b7-bd3d596b1ba4,2021-06-05 13:42:38.003200,U01UJ9M3P1T,1970-01-01 07:00:00.000000,0,0,,"Anh mở terminal tại folder điền: git log. 
+
+Sau đó nó sẽ hiện ra mã của những commit (anh copy 7 chữ đầu của mã tại commit trc khi update). 
+
+Sau đó chạy: git checkout mã-commit - - tên file muốn revert",,
+C022Q7TGRLG,15f1ad0c-5b0c-404c-b6ed-c4b8b9ece6d1,2021-06-05 10:00:35.000200,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,"Ai chưa zô thì zô phòng nha mng:
+<https://datacracy.slack.com/archives/C01B4PVGLVB/p1622861996007000>",,
+C022Q7TGRLG,46c6dcfc-c16a-41e6-be6d-20a813ac9bb7,2021-05-22 11:57:37.006200,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,"Token bị inactive. Bạn có thể tự tạo token qua Slack API. Hoặc xài cái token mới này nha
+<https://datacracy.slack.com/archives/C01B4PVGLVB/p1621649041051100?thread_ts=1621619617.042600&amp;cid=C01B4PVGLVB>",,
+C022Q7TGRLG,7b4360a8-84c1-440e-8609-012f9bc93168,2021-05-21 11:23:02.004400,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,"1. Cái này có thể tạo trên trang Slack API á em (Slack API =&gt; Create an app). Trong buổi học tuần này sẽ có hướng dẫn trong lab nè
+2. Cái này chắc nhờ <@U01UTGS5ZNY> screenshot nha (maybe 1 account là chị, 1 account là con bot á em)
+3. Nó nằm trong structure của JSON. Khác với structure của data dạng bản, JSON k có schema fix. Nên có cái có, có cái k. TODO#4 này dùng 1 logic rất đơn giản để ktra, là trong message có post kèm link github không, rõ ràng cái này có nhiều thiếu sót (mà mình có thể thay đổi về mặt vận hành, như mỗi bạn gửi bài có kèm tag `[DONE]` trong message để mình dùng python lọc ra",,
+C022Q7TGRLG,62c4f47b-35bf-41cd-a37b-e04d8b0a26af,2021-05-21 10:52:48.003400,U01UTGS5ZNY,2021-05-21 14:02:59.005300,4,"['U01UJ9M3P1T', 'U01BE2PR6LU', 'U01UJ9PRT5K', 'U01UTGS5ZNY']",,"Hello mọi người,
+Trong quá trình mình làm  bài tập thì có một số thắc mắc nên note lại để sắp tới group mình discuss thử nha:
+1. Chị MAD lấy master Slack token từ đâu =)), mình nói master là do khi mình tự tạo token thì mỗi một method thì có Required scope(s) riêng =&gt; cho ra 3 token khác nhau thì mới làm bài được (riêng mình mò thì như vậy) =&gt; cuối cùng là mình lấy token của chị MAD cho nhanh
+
+2. *#Todo1*, tại sao chị MAD có 2 user_id (mình cũng vậy) nhưng những learner khác lại chỉ có 1, khiến cho phần todo4 mặc dù đã loại bỏ message từ not_learners_id ='U01BE2PR6LU' nhưng vẫn trả về msg chị MAD của user_id còn lại.
+
+3. *#Todo4*, nếu có thêm điều kiện _if 'attachments' in msg_ls[i].keys()_ =&gt; kết quả trả về sẽ thiếu dữ liệu, trong đó có mình, mặc dù mình đã nộp bài. Cũng rất  nhiều message không có keys 'attachments', nên ra kết quả bị thiếu, vai trò của attachments ở đây là gì, vì không có thì code vẫn chạy :sweat_smile:
+- Ngoài ra trong bài này mình cũng sửa rất nhiều lần, nếu chỉ làm theo hướng dẫn từ todo1 thêm values khi dùng dict.append(), kết quả trả về tất cả user nhưng keys khác thì sai . VD: link git bị trùng  dù 2 user khác nhau.
+- Khi cho thêm đk else nếu các messages.keys() không có (reply count, user,...)=&gt; trả về 'NA', kết quả trả về đúng, nhưng vẫn có thêm user của chị MAD =))
+
+---- có ai gặp trường  hợp như mình không  :joy:",U01UJ9M3P1T,U01BE2PR6LU
+C022Q7TGRLG,524eb829-b977-48b2-8f15-f8854bbdcd8c,2021-05-17 19:15:12.015200,U01UTGS5ZNY,2021-05-17 22:25:39.017900,3,"['U01V00JK9LH', 'U01UTGS5ZNY', 'U01BE2PR6LU']",,"Mình mất khá nhiều time để tạo API slack nên mình share cho mọi người nếu cần nha
+• Sau khi create API app  =&gt; vào  OAuth &amp; Permissions để install app, (bot và user chọn `users:read (do cái này có nhiều lựa chọn nên mình phải chọn đúng  mới work.`
+ =&gt; sau khi install thì lấy token bot bỏ vào đây (tester) thử xem ok không  : <https://api.slack.com/methods/users.list>",U01V00JK9LH,U01UTGS5ZNY
+C022Q7TGRLG,74124728-2341-47f1-9d1f-e01dd1f996ed,2021-05-17 11:02:42.011200,U01VBGPP1EU,1970-01-01 07:00:00.000000,0,0,,"Thêm nữa là nếu ai mình add nhầm vào group 2 nhưng ko phải trong group 2 thì lên tiếng nhé ạ :see_no_evil:
+
+Với lại mình không tìm được nick của bạn Đinh Ngọc Lâm nên ai biết nick slack của bạn thì add vào giúp mình với. :raised_hands:",,
+C022Q7TGRLG,3eab5de2-9c8c-461b-9c8e-b1070a180860,2021-05-17 11:01:41.009900,U01VBGPP1EU,1970-01-01 07:00:00.000000,0,0,,"Hi mọi người <!here>, như đã đề xuất, và đã trao đổi với BTC thì mình có 1 group discussion riêng dành cho group 2 mình nhé.
+• Expectation sẽ là mọi người có thể trao đổi với nhau thoải mái hơn, gắn kết hơn :hugging_face:, và hy vọng những bạn nắm chắc về các phần trong buổi học có thể share và giúp đỡ các bạn còn lại trong group 2 nhé ạ. 
+• Mentors (mình và chị <@U01UMJ4D5NX>) sẽ chủ yếu coordinate, sẽ cố gắng support hết mình các vấn đề các bạn cảm thấy không thoải mái, và các vấn đề về technical trong quá trình học. 
+• Do là không phải kiến thức tuần nào cũng thuộc về lĩnh vực chuyên môn của mentors, và tụi mình cũng không có nhiều thời gian để follow-up hết tất cả các issue của các bạn nên hy vọng mọi người cùng giúp đỡ nhau trong quá trình học nhé ạ :raised_hands:. Sẽ không tránh khỏi sai sót nên hy vọng mọi người thông cảm và đóng góp ý kiến để tất cả cùng cải thiện nha. 
+Cảm ơn mọi người thiệt nhiều,
+
+Happy Learning!",,
+C022RRWQ6US,c2b251b3-7df0-4446-8d87-9447c02be6db,2021-06-04 17:50:21.002300,U01UMBZHU2W,1970-01-01 07:00:00.000000,0,0,https://github.com/tinyvyy/,"mn ơi em nộp bài assignment 4 ạ :raised_hands:
+<https://github.com/tinyvyy/atom-assignments/blob/main/assignment_4/L%C3%AA_Vy_home_assignment_4.ipynb>",,
+C022RRWQ6US,8d040c6d-8ad4-49c4-acc0-27f2741b3284,2021-06-04 10:12:24.000800,U01U6JQB695,1970-01-01 07:00:00.000000,0,0,https://github.com/Tenderriver/,"Mình lại tiếp tục giữ kỷ lục nộp bài chậm nhất group rồi :smiling_face_with_tear:
+<https://github.com/Tenderriver/atom-assignments/tree/main/assignment_4>",,
+C022RRWQ6US,4478ae1d-0e50-4cb6-85bb-79cb8fbceaa1,2021-06-03 18:55:13.014700,U01UJ9PA0MB,1970-01-01 07:00:00.000000,0,0,https://github.com/hongdoi/,"Hi mọi người, mình nộp bài assignment 4. Hi vong chưa quá trễ  :sweat_smile:.
+<https://github.com/hongdoi/atom-assignments/blob/main/assignment_4/Home%20assignment%20-%20To%20do.md>",,
+C022RRWQ6US,7ba63aab-b2ad-49e9-8ce1-8c709de3d433,2021-06-03 01:28:09.011900,U01UTGVPE7N,1970-01-01 07:00:00.000000,0,0,https://github.com/hoaintp/,"Hi mọi người, cuối cùng em đã hoàn thành xong hết to-do list của assignment 4 ạ :sweat_smile:. hy vọng mn vẫn bình an giữa dịch bệnh :four_leaf_clover:
+<https://github.com/hoaintp/atom-assignments/blob/main/assignment_4/home_assignment_4.ipynb>",,
+C022RRWQ6US,57bf366c-ae92-4d91-be3d-088685e16610,2021-06-02 00:14:43.006000,U01UJ9P1S3X,1970-01-01 07:00:00.000000,0,0,https://github.com/lethuthao1368/,"Hi cả nhà, em gửi lại bài tập đã bổ sung todo7. Rút ra kinh nghiệm là nên dùng join từ đầu như làm vs SQL, em không dùng nên cứ phải gọi lại các giá trị hoài, lẻ tẻ, nhưng cũng là 1 trải nghiệm với pandas :joy:. Mai em sẽ bắt đầu review bài, mn ngủ ngon!: <https://github.com/lethuthao1368/atom-assignments/tree/main/assignment_4>",,
+C022RRWQ6US,3e5a075d-d4a4-43d8-9d99-24b67daa8be0,2021-06-01 23:09:50.003200,U01USGKQ771,1970-01-01 07:00:00.000000,0,0,https://github.com/TrangNgo1709/,"Huhu em gửi bài tập 4:
+<https://github.com/TrangNgo1709/atom-assignments/tree/main/assignment_4>",,
+C022RRWQ6US,5f2de85e-dc4a-4a8c-bfe9-c959a4e9bc0d,2021-05-30 20:34:16.003700,U01UTGRMGEQ,2021-06-02 18:19:48.009100,2,"['U01UTGS5ZNY', 'U01UTGRMGEQ']",https://github.com/nguyenhonghanh2511/,"Xin chào cả nhà, em xin phép gửi bài assignment 4 đã revised ở link <https://github.com/nguyenhonghanh2511/datacracy-atom-Nguyen-T-Hong-Hanh/blob/main/WEEK%204_Link%20of%20assignment%20for%20peer%20review|này>. Phần To-do-6 về code em vẫn lạch bạch nên đã tham khảo ở bài của chị Thảo Nguyên và bạn Huỳnh Anh rất nhiều. Bài làm của cả 2 đều rất hay và dễ hiểu ạ :smiling_face_with_tear:",U01UTGS5ZNY,U01UTGRMGEQ
+C022RRWQ6US,b8d26ef6-e636-44d9-a6cb-ab9ffd9b5fb5,2021-05-30 13:01:58.001100,U01UEJFMUSJ,1970-01-01 07:00:00.000000,0,0,https://github.com/nhduonng2803/,"Mặc dù muộn nhưng em xin phép nộp bài assignment 4 ạ. Còn todo7 em sẽ cố gắng hoàn thành nốt ạ.
+Git link: <https://github.com/nhduonng2803/Datacracy-atom-nhduong/tree/main/week04>",,
+C022RRWQ6US,cecc242e-b0d2-4fa3-94a9-815516dc6238,2021-05-29 08:15:08.016000,U01KDQJ9FCG,1970-01-01 07:00:00.000000,0,0,https://github.com/phanlinh0803/,"Chào buổi sáng cả nhà, em gửi <https://github.com/phanlinh0803/atom-assignments/blob/PhanLinh-assignment-04/ATOM_%7C_Phan_Linh_Home_Assignment_04.ipynb|assigment 04> của em ạ  :woman-gesturing-ok:",,
+C022RRWQ6US,29980769-6f15-4bb6-a7d4-2d31d5783ee5,2021-05-29 07:52:39.014500,U01V082PLN5,2021-06-02 09:57:05.007100,1,['U01UTGS5ZNY'],https://github.com/interphuoc/,Em xin phép gửi Home Assignment 4 ạ: <https://github.com/interphuoc/atom-assignments/tree/main/assignment_4>,U01UTGS5ZNY,
+C022RRWQ6US,7cf39605-eebe-48ba-a2b2-efdb77730589,2021-05-29 05:34:57.013800,U01UTGRMGEQ,1970-01-01 07:00:00.000000,0,0,https://github.com/nguyenhonghanh2511/,"Chào cả nhà, em xin gửi bài tập ạ. Em xỉu ngang ở các phần viết code nên To_do 6 rất te tua và chưa hoàn thành ạ. :joy: Hẹn gặp mọi người lúc 9h sáng nay :hearts: <https://github.com/nguyenhonghanh2511/datacracy-atom-Nguyen-T-Hong-Hanh/blob/main/WEEK%204_Link%20of%20assignment%20for%20peer%20review>",,
+C022RRWQ6US,70436854-747e-4c4a-b951-a7656d408b82,2021-05-29 02:05:44.011600,U01V00KHHHP,1970-01-01 07:00:00.000000,0,0,https://github.com/saturn1101/,Sự học thật gian nan ko biết lúc nào e mới lấy được chân kinh :joy:. Em gửi bài tập ạ: <https://github.com/saturn1101/atom-assignments/tree/phuong-assignments/assignment_4>,,
+C022RRWQ6US,7970ad2d-dd88-40db-9659-95928d85e6de,2021-05-29 01:33:27.010800,U01UJ9P1S3X,1970-01-01 07:00:00.000000,0,0,https://github.com/lethuthao1368/,"Xin chào mn, em gửi bài tập tuần này, làm xong đến to_do_6. Còn to_do_7 em sẽ hoàn thiện sau buổi học cũng như làm gọn lại mấy phần trước: <https://github.com/lethuthao1368/atom-assignments/blob/main/assignment_4/home_assignment_4.ipynb>
+Mọi người buổi sáng vui vẻ!",,
+C022RRWQ6US,64686093-f1cf-4e58-93e4-a4b2cef9488f,2021-05-29 00:31:09.009600,U01UJ9MUADT,1970-01-01 07:00:00.000000,0,0,https://github.com/Lulichlam/,"Hi all
+Mình gửi link bài tập nhé dù chưa hoàn thành hết:blush:
+<https://github.com/Lulichlam/atom-assignments/blob/main/assignment_4/home_assignment_4.ipynb>",,
+C022RRWQ6US,2caa70df-2fe9-4f69-a225-0bd2d22f5254,2021-05-28 23:57:47.008700,U01UQGZHSTZ,1970-01-01 07:00:00.000000,0,0,,"Chào mọi người, mình gửi bài Assginment 4. Sweet dreams everyone!
+<https://drive.google.com/file/d/1mQIdlUC9cY8OT95AMf_jjwUfpPZWmJ50/view?usp=sharing>",,
+C022RRWQ6US,5bce320a-dfbb-4103-870a-beab6ad9dd81,2021-05-28 23:32:45.007700,U01UTGS5ZNY,2021-06-02 09:15:01.006200,2,"['U01UTGT8CVA', 'U01UTGS5ZNY']",https://github.com/ngochant/,"Mình gửi Assignment 4, chúc cả nhà ngủ ngon
+<https://github.com/ngochant/atom-assignments/blob/main/assignment_4/assignment4_ngocha.ipynb>",U01UTGT8CVA,U01UTGS5ZNY
+C022RRWQ6US,1194802f-211e-453f-8bf9-2ca55b366983,2021-05-28 22:53:15.007000,U01V00JK9LH,1970-01-01 07:00:00.000000,0,0,https://github.com/phamdinhtuan200382/,"Em gửi Assginment 4 ạ. Hy vọng sau buổi học ngày mai em sẽ hoàn thiện bài hơn :sweat_smile:
+<https://github.com/phamdinhtuan200382/atom-assignments/tree/main/assignment_4>",,
+C022RRWQ6US,64a3b90e-e117-44de-b231-446ddc8f191e,2021-05-28 22:45:29.005800,U01UMBW8G8J,2021-06-01 23:50:06.003600,2,"['U01UTGT8CVA', 'U01UMBW8G8J']",https://github.com/ngocvu74/,"Hi các bạn, mình gửi Assignment 4.
+<https://github.com/ngocvu74/atom-assignments/blob/main/Home_assignment_4.ipynb>",U01UTGT8CVA,U01UMBW8G8J
+C022RRWQ6US,e67baadd-24c2-472e-a29e-5dfc3f3241b3,2021-05-28 22:43:07.005100,U01UMJ5AQ0K,1970-01-01 07:00:00.000000,0,0,https://github.com/duongphannamhung/,"Hi mn , em gửi bài tập Assginment 4. Hẹn gặp lại mn sáng mai nha :smiling_face_with_3_hearts:
+<https://github.com/duongphannamhung/atom-assignments/tree/main/assignment_4>",,
+C022RRWQ6US,aeae7ac3-a929-44e5-a9be-7f900d89907d,2021-05-28 22:35:34.004200,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,<https://datacracy.slack.com/archives/C01B4PVGLVB/p1622216127004100?thread_ts=1622216077.003600&amp;cid=C01B4PVGLVB>,,
+C022RRWQ6US,9268ec50-381b-44ae-a5a3-1b6bc1a28834,2021-05-28 22:03:17.003900,U01UTGRQS9J,2021-06-04 23:24:35.003000,1,['U01V00JK9LH'],https://github.com/vukhanhlinh/,"Em nộp bài ạ: <https://github.com/vukhanhlinh/atom-assignments/tree/main/assignment_4|Link>
+Chúc mọi người ngủ ngon nhé",U01V00JK9LH,
+C022RRWQ6US,de2d4fa4-31f5-4f85-9a26-0b8e28772ed2,2021-05-28 21:57:39.003100,U01UJ9PRT5K,2021-06-01 02:04:18.002100,1,['U01V00KHHHP'],https://github.com/hieulam1312/,"Chào cả nhà, em gửi bài Assignment 4 ạ: <https://github.com/hieulam1312/atom-assignments/tree/main/assignment_4>",U01V00KHHHP,
+C022RRWQ6US,7e62e9b9-1ac9-4b71-ad10-09e5b7083f7f,2021-05-28 21:30:47.002500,U01UMJ451V1,1970-01-01 07:00:00.000000,0,0,https://github.com/annaho124/,"Em xin phép gửi bài tập assignment 4 ạ :nerd_face: Hẹn gặp mọi người vào sáng mai nha :wink:
+<https://github.com/annaho124/atom-assignments/tree/main/assignment_4>",,
+C022RRWQ6US,f1f9df7b-b863-415e-bfa2-3c74af2af4e5,2021-05-28 19:53:25.001600,U01UMC0N5U2,1970-01-01 07:00:00.000000,0,0,https://github.com/chuviethongfpt/,":tada: Hi mn, em xin phép gửi bài tập assignment 4 ạ :smiling_face_with_3_hearts:
+<https://github.com/chuviethongfpt/atom-assignments/blob/main/Home_Assignment__04_CVH.ipynb>",,
+C022RRWQ6US,49cd8d26-c512-467e-9667-1d5e12a3f4dd,2021-05-28 00:03:22.002600,U01UMJ36QD9,1970-01-01 07:00:00.000000,0,0,https://github.com/Quan030994/,"Hi mn, em gửi bài tập assignment 4:
+<https://github.com/Quan030994/atom-assignments/tree/main/assignment_4>
+Chúc mn ngủ ngon",,
+C022RRWQ6US,95126dc6-39bb-41d3-9bad-2a3951e2f8de,2021-05-26 22:03:21.006900,U01VB632FPS,1970-01-01 07:00:00.000000,0,0,https://github.com/Ha-Huynh-Anh/,"Hi,
+Mình gửi bài tập nhé! Mọi người góp ý chứ thấy cũng hông quen với SQL lắm :3.
+• Name: &lt;U01VB632FPS&gt;
+• Status: DONE Todo 1 - 7
+• Link: <https://github.com/Ha-Huynh-Anh/atom-assignments/tree/Huynh-Anh-assignment-4/assignment_4|Assignment 4 - Huỳnh Anh>",,
+C022RRWQ6US,aca2dab4-ae7c-4890-a104-5bc25d35bc05,2021-05-26 21:39:32.005200,U01UTGT8CVA,2021-06-02 17:29:22.008400,2,"['U01UMBW8G8J', 'U01UTGT8CVA']",https://github.com/ngttnguyen/,"Mình xin gởi bài tập <https://github.com/ngttnguyen/atom-assignments/blob/main/assignment_4/NguyenThaoNguyen_Assignment4.ipynb|Assignment4>
+Chúc mọi người ngủ ngon!",U01UMBW8G8J,U01UTGT8CVA
+C022RRWQ6US,f4bef323-127c-476e-837e-507f7a6e301f,2021-05-26 00:46:52.015200,U01UJ9M3P1T,2021-06-01 01:46:29.001600,2,"['U01UTGRMGEQ', 'U01V00KHHHP']",https://github.com/cnhhoang850/,"Em xin gửi bài tập tuần 4 ạ (done):
+Todo 1 -&gt; 6: :white_check_mark: (refactor các lệnh lặp lại thành bảng)
+Todo 7: :white_check_mark:
+Link github: <https://github.com/cnhhoang850/atom-assignments>Hoang",U01UTGRMGEQ,U01V00KHHHP
+C022RRWQ6US,3a3970b2-614d-4d9c-a8d8-07d41843d08d,2021-05-25 20:23:48.001200,U01UJ9LG5U5,1970-01-01 07:00:00.000000,0,0,,có phải là do lỗi token ?,,
+C022RRWQ6US,3db33d2a-5666-44cf-95e0-dd33aee4e63c,2021-05-24 18:49:29.003700,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,"<!channel> Slack token đã valid lại nha mọi
+<https://datacracy.slack.com/archives/C01B4PVGLVB/p1621856948061100?thread_ts=1621856538.060100&amp;cid=C01B4PVGLVB>",,
+C022RRWQ6US,8b4a2ebb-7882-402b-8339-a0b067ce5165,2021-05-23 14:58:23.003000,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,"<!channel>
+<https://datacracy.slack.com/archives/C022Y1FUETE/p1621756685001500>",,
+C022RRWQ6US,231fad01-7083-4cd0-b6b6-e97bf54779e2,2021-05-23 06:23:13.001400,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,https://github.com/anhdanggit/,"HOME ASSIGNMENT #4: DATABASE DESIGN &amp; SQL
+----
+Mọi người ơi, đến hẹn lại lên.
+Assignment#4 đã lên sóng. Giới thiệu với cả lớp nội dùng về Database Design và SQL
+---
+• Bài Assignment này sẽ thực tế và business hơn 
+• Bài tập dài (6 câu bắt buộc, 1 câu optional) nên mọi người hãy ráng bắt đầu sớm (ít nhất đọc đề để hiểu khối lượng)
+• *Đừng sa đà vào Code và các tiểu tiết* =&gt; Cái quan trọng hiểu bức tranh toàn cảnh và cố gắng đi đến hết `TODO#6` để  kết nối được kiến thức. Sau khi đi hết qua, các bạn có thể trở lại và nhìn cận vào các tiểu tiết
+• Làm nhiều nhất có thể (Đừng quá lo lắng nếu bạn không thể hoàn thành hết)
+---
+1. <https://github.com/anhdanggit/atom-assignments#readme|README về Update forked repo> (cập nhật bài tập mới từ repo gốc)
+2. :tada: :tada:  <https://github.com/anhdanggit/atom-assignments/tree/main/assignment_4|Assignment 4>
+---
+:warning: Lần nãy vẫn dùng Token, nên mọi người cẩn thận củi lửa, đừng print key, và nhớ gitignore nhoé
+:green_heart:  Bất kỳ câu hỏi thắc mắc nào các bạn hãy raise trong channel #atom-week4 nhé
+:green_heart: Các channels riêng cho nhóm đã được tạo để tiện trao đổi: #discuss-group1 #discuss-group2 #discuss-group3 #discuss-group4
+:red_circle: Bài tập Đợt 1 hoàn thành và post link trong channel này trước buổi học tiếp theo
+:red_circle: *Bài tập* “Last Chance”: Sau buổi học, học viên có thể hoàn chỉnh thêm assignment theo nội dung review trong lớp học, và submit lại `trước *12h đêm Chủ nhật` (sau buổi học)*",,
+C022Y1FUETE,ee582f3d-c339-4d06-a263-b71c6470e647,2021-05-24 18:49:57.001000,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,"<!channel> Slack Token bị kick khỏi DataCracy nên mình đã generate lại hen:
+<https://datacracy.slack.com/archives/C01B4PVGLVB/p1621856948061100?thread_ts=1621856538.060100&amp;cid=C01B4PVGLVB>",,
+C022Y1FUETE,38adf48f-21cc-437c-9ad3-31cd002bc4f8,2021-05-23 14:58:05.001500,U01BE2PR6LU,2021-05-23 23:15:45.002200,1,['U01VB632FPS'],,"Slack Token để làm bài tập 4 nha mọi ng <!channel>
+&gt; xoxb-1381900565698-2074738241732-YdCkmyn0WeiDBRRi1c7A2nzi",U01VB632FPS,
+C023UJGMDND,b8397c4e-780d-4cd0-af52-f3e2ce2afa5d,2021-06-05 05:15:27.013500,U01V00KHHHP,1970-01-01 07:00:00.000000,0,0,https://github.com/saturn1101/,"E gửi bài tập ạ :mask::
+• Name: U01V00KHHHP
+• Status: To-Do 1-3 = :white_check_mark: (To-Do 4 học xong e làm nốt)
+• Link: <https://github.com/saturn1101/atom-assignments/blob/phuong-assignments/assignment_5/home_assignment_5.ipynb|github>",,
+C023UJGMDND,97cd9541-0081-4ad0-9871-1f1ec4d8e3bf,2021-06-05 03:12:09.011500,U01UMJ451V1,1970-01-01 07:00:00.000000,0,0,https://github.com/annaho124/,"Không biết còn ai thức đêm nay chạy deadline không, chúc mọi người nộp bài xong ngủ ngon ạ :smile:
+• Name: U01UMJ451V1
+• Status: TODO 1-3 DONE
+• Link: <https://github.com/annaho124/atom-assignments/tree/main/assignment_5|Ngan - Assignment 5> ",,
+C023UJGMDND,ef420f59-8e04-4457-b557-cdd10439bf88,2021-06-05 01:21:55.009200,U01V082PLN5,1970-01-01 07:00:00.000000,0,0,https://github.com/interphuoc/,"Hi cả nhà, em xin phép gửi Home Assignment 5 ạ:
+• Name: U01V082PLN5
+• Status: DONE
+• Link: <https://github.com/interphuoc/atom-assignments/blob/main/assignment_5/home_assignment_5.ipynb|github>",,
+C023UJGMDND,11118430-6408-4568-afef-fefccf4a51c3,2021-06-04 22:21:20.007400,U01VB632FPS,1970-01-01 07:00:00.000000,0,0,https://github.com/Ha-Huynh-Anh/,"Hy vọng sẽ được review bài tập tuần này :))
+• Name: &lt;U01VB632FPS&gt;
+• Status: DONE TODO 1 - 3
+• Link: <https://github.com/Ha-Huynh-Anh/atom-assignments/blob/Huynh_Anh_Assignment_5_W6/assignment_5/home_assignment_5.ipynb|Huỳnh Anh - Assignment 5 - W6 - 04.06.21>
+",,
+C023UJGMDND,f8da5388-3d35-46db-8483-10d599e32085,2021-06-04 22:06:00.005900,U01UJ9PRT5K,1970-01-01 07:00:00.000000,0,0,https://github.com/hieulam1312/,"Chào mọi người, em gửi bài tập tuần này.
+• Name: U01UJ9PRT5K
+• Status: DONE TODO 1-3
+• Link: <https://github.com/hieulam1312/atom-assignments/blob/main/assignment_5/home_assignment_5.ipynb|github>",,
+C023UJGMDND,7fc8ceec-1f22-4d38-a21a-916fe0171fd7,2021-06-04 21:32:19.005100,U01UMBW8G8J,1970-01-01 07:00:00.000000,0,0,https://github.com/ngocvu74/,"Hi các bạn, mình gửi bài tập tuần này
+• Name: U01UMBW8G8J
+• Status: DONE 
+• Link: <https://github.com/ngocvu74/atom-assignments/blob/main/Home_assignment_5.ipynb|github>  ",,
+C023UJGMDND,e1834b7f-2de5-48e4-bfa0-b95915462b73,2021-06-04 21:11:26.003500,U01UTGS5ZNY,1970-01-01 07:00:00.000000,0,0,https://github.com/ngochant/,"Mình xin phép gửi bài:
+• Name: U01UTGS5ZNY
+• Status: DONE
+• Link: <https://github.com/ngochant/atom-assignments/blob/main/assignment_5/home_assignment_5.ipynb|github>",,
+C023UJGMDND,70df3e5f-9ce6-4765-a9cd-94d31a30a721,2021-06-04 17:18:42.001600,U01UMC0N5U2,1970-01-01 07:00:00.000000,0,0,https://github.com/chuviethongfpt/,":dart: Hi mn, em xin phép gửi bài tập ạ:
+• Name: U01UMC0N5U2
+• Status: DONE
+• Link: <https://github.com/chuviethongfpt/atom-assignments/blob/main/Home_Assignment__5_CVH.ipynb|github>",,
+C023UJGMDND,74eae03c-d492-4e76-8090-fac10c7fee14,2021-06-03 23:46:34.009600,U01UJ9P1S3X,1970-01-01 07:00:00.000000,0,0,https://github.com/lethuthao1368/,"Hi mn, em nộp bài tuần này, còn todo 4 em sẽ sắp xếp làm ạ. :3
+Name: U01UJ9P1S3X
+Status: DONE TODO 1 - 3
+Link: <https://github.com/lethuthao1368/atom-assignments/blob/main/assignment_5/home_assignment_5.ipynb|github>",,
+C023UJGMDND,2ec0006b-f49c-4de2-bd69-d54c0a0c1307,2021-06-03 00:16:49.007800,U01V00JK9LH,1970-01-01 07:00:00.000000,0,0,https://github.com/phamdinhtuan200382/,"• Name: U01V00JK9LH
+• Status: DONE
+• Link : <https://github.com/phamdinhtuan200382/atom-assignments/blob/main/assignment_5/home_assignment_5.ipynb>",,
+C023UJGMDND,8d52e739-7903-44a8-aa9b-150ce15d4b08,2021-06-02 23:10:19.007100,U01UMJ36QD9,1970-01-01 07:00:00.000000,0,0,https://github.com/Quan030994/,"Dear mọi người, mình nộp bài Assignment 5 thông tin như bên dưới, chúc mọi người ngủ ngon:
+• Name: U01UMJ36QD9
+• Status: Done TODO1 -4
+• Link : <https://github.com/Quan030994/atom-assignments/tree/main/assignment_5|github>",,
+C023UJGMDND,15096040-5001-4884-aeeb-92ee5bcad3e3,2021-06-02 17:34:22.003500,U01UTGT8CVA,1970-01-01 07:00:00.000000,0,0,https://github.com/ngttnguyen/,"Dear mọi người, mình xin nộp Assignment5
+• Name: U01UTGT8CVA
+• Status: DONE TODO1 - 4 
+• Link: <https://github.com/ngttnguyen/atom-assignments/blob/main/assignment_5/NguyenThaoNguyen_home_assignment_5.ipynb|github>",,
+C023UJGMDND,a8edeb55-8d76-4ea7-8ea0-3111840ffb44,2021-05-30 08:55:42.001400,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,https://github.com/anhdanggit/,"*HOME ASSIGNMENT #5: BIGQUERY &amp; PYTHON PANDAS*
+----
+Mọi người ơi, Assignment#5 đã lên sóng.
+• Đây là bài tập nhẹ nhàng hơn các tuần trước
+• Các bạn dành thời gian ôn lại và xâu chuỗi kiến thức nhé: Slack API, GSheet, SQL và Python
+---
+1. <https://github.com/anhdanggit/atom-assignments#readme|README về Update forked repo> (cập nhật bài tập mới từ repo gốc)
+2. :tada: :tada:  <https://github.com/anhdanggit/atom-assignments/blob/main/assignment_5/home_assignment_5.ipynb|Assignment 5>
+---
+&gt; RULES: Format submit bài
+Như chúng ta có học trong bài Database Design, về các rules để năng cao chất lượng data. Học đi đôi với hành, mọi người nộp bài để message theo cú pháp sau nha
+• Name: &lt;slack-user_ID của bạn&gt;
+• Status: DONE
+• Link: github
+---
+:warning: Lần nãy vẫn dùng Token, nên mọi người cẩn thận củi lửa, đừng print key, và nhớ gitignore nhoé
+:green_heart:  Bất kỳ câu hỏi thắc mắc nào các bạn hãy raise trong channel <#C0245PZUFSL|atom-week5> nhé
+:green_heart: Các channels riêng cho nhóm đã được tạo để tiện trao đổi: #discuss-group
+:red_circle: Bài tập Đợt 1 hoàn thành và post link trong channel này trước buổi học tiếp theo
+:red_circle: *Bài tập* “Last Chance”: Sau buổi học, học viên có thể hoàn chỉnh thêm assignment theo nội dung review trong lớp học, và submit lại `trước *12h đêm Chủ nhật` (sau buổi học)*",,
+C0245PZUFSL,2ccae5b9-902c-4fff-bf08-e84d558537be,2021-06-02 19:10:03.003400,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,<https://datacracy.slack.com/archives/C01B4PVGLVB/p1622616282002200?thread_ts=1622216077.003600&amp;cid=C01B4PVGLVB>,,
+C0245PZUFSL,a6e46b2c-00a6-43f3-acb2-9fb221d25d4b,2021-06-02 19:09:43.003200,U01BE2PR6LU,1970-01-01 07:00:00.000000,0,0,,"<!channel> First submission in format :heart:
+<https://datacracy.slack.com/archives/C023UJGMDND/p1622630062003500>",,

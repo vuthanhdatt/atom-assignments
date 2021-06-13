@@ -1,4 +1,3 @@
-
 import streamlit as st
 import json
 import requests
@@ -12,7 +11,7 @@ from datetime import datetime as dt
 st.set_page_config(layout="wide")
 
 st.title('DataCracy ATOM Tiến Độ Lớp Học')
-with open('./env_variable.json','r') as j:
+with open('../assignment_3/env_variable.json','r') as j:
     json_data = json.load(j)
 
 #SLACK_BEARER_TOKEN = os.environ.get('SLACK_BEARER_TOKEN') ## Get in setting of Streamlit Share
@@ -120,7 +119,7 @@ channel_df = load_channel_df()
 msg_df = load_msg_dict()
 
 #st.write(process_msg_data(msg_df, user_df, channel_df))
-
+process_msg_data(msg_df, user_df, channel_df)
 
 # Input
 st.sidebar.markdown('## Thông tin')
@@ -193,5 +192,3 @@ if valid_user_id:
     
 else:
     st.markdown('Không tìm thấy Mã Số {}'.format(user_id))
-
-## Run: streamlit run streamlit/datacracy_slack.py

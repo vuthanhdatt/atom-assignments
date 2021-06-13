@@ -1,0 +1,77 @@
+user_id,name,display_name,real_name,title,is_bot,DataCracy_role
+USLACKBOT,slackbot,Slackbot,Slackbot,,False,BTC
+U01AT4T75JB,loclexuan26392,Loc Le Xuan,Loc Le Xuan,,False,BTC
+U01AVDY7JET,locle.ds,Loc Le Xuan,Loc Le Xuan,,False,BTC
+U01BE2PR6LU,maianhdang.ftu,MAD,Dặng Huỳnh Mai Anh,Technical Contents,False,BTC
+U01C48T7S1J,huyenhoang.design,Thanh Huyen Hoang,Thanh Huyen Hoang,Technical Contents,False,BTC
+U01CMTYB7EU,dr.tringuyenzmc,Thanh Huyen Hoang,Dr Tringuyenzmc,Technical Contents,False,BTC
+U01GQR2FE93,khanguyenwk,Thanh Huyen Hoang,Kha Nguyen,Technical Contents,False,Volunteer
+U01HARCHNKU,linhphan,Thanh Huyen Hoang,Phan Linh,Technical Contents,False,BTC
+U01JQ5TUP0B,tt.thuchuyen,Thanh Huyen Hoang,Tt Thuchuyen,Technical Contents,False,BTC
+U01JQ5U1RPV,thuongthuong.dv,Thanh Huyen Hoang,Thuong Do,Technical Contents,False,BTC
+U01JQ5U4ADR,duongliengia,Thanh Huyen Hoang,duongliengia,Technical Contents,False,BTC
+U01KDQJ9FCG,phanthuylinh8396,Thanh Huyen Hoang,Phan Linh,Technical Contents,False,Learner_Gr3
+U01U6JM6LEB,hoangquocviet.208,Viet Hoang,Viet Hoang,Technical Contents,False,Learner_Gr4
+U01U6JQB695,thgiang.phan,Viet Hoang,Giang Phan,Technical Contents,False,Learner_Gr1
+U01U8CAMGB1,huyenngoc2017,Ngoc Huyen,Ngoc Huyen,Technical Contents,False,Learner_Gr1
+U01UEJFMUSJ,nhuhai03,Duong Nhu Hai,Duong Nhu Hai,Technical Contents,False,Learner_Gr1
+U01UEJG8KHU,trangnguyen.n3t,Trang Nguyễn,Trang Nguyễn,Technical Contents,False,Learner_Gr3
+U01UEJKV3PG,nhduyen1995,Duyên Nguyễn Hồng,Duyen Nguyễn Hồng,Technical Contents,False,Volunteer
+U01UFKDG79U,hanhdinh.201099,Mỹ Hạnh Đinh Thị,Mỹ Hạnh Dinh Thị,Technical Contents,False,
+U01UFTS0UGN,googledrive,Mỹ Hạnh Đinh Thị,Google Drive,Technical Contents,True,
+U01UJ9LG5U5,danhpcv,Danh Phan,Danh Phan,Technical Contents,False,Learner_Gr3
+U01UJ9M3P1T,cnhhoang850,Cao Nguyen Huy Hoang,Cao Nguyen Huy Hoang,Technical Contents,False,Learner_Gr2
+U01UJ9M5TU5,minhnguyentk95,Minh Nguyen,Nguyen Thi Kim Minh,Technical Contents,False,Learner_Gr2
+U01UJ9MUADT,lovelylife.158,Thu Trang,Nguyễn Thị Thu Trang,Learner,False,Learner_Gr2
+U01UJ9NKX8D,lienanhhuong96,Lien Anh Trinh,Lien Anh Trinh,Learner,False,Learner_Gr2
+U01UJ9P1S3X,thao,Thao Le,Thao Le,Learner,False,Learner_Gr3
+U01UJ9PA0MB,doithihong92,Hồng Đới,Hồng Dới,Learner,False,Learner_Gr1
+U01UJ9PRT5K,hieulam1312,Hiếu,Hieu Lam,Learner,False,Learner_Gr2
+U01UJKRQM2R,letanthanh273,Hiếu,Le Tan Thanh,Learner,False,Mentor_Gr4
+U01UMBW8G8J,baongoc.vuthi,Ngoc Vu,Ngoc Vu,Learner,False,Learner_Gr2
+U01UMBX2X18,thienphu.71,Thien Phu,Phu NDT,Learner,False,Mentor_Gr1
+U01UMBXJLHG,nvlinh.dth,Nguyen Linh,Nguyen Linh,Learner,False,Learner_Gr1
+U01UMBZHU2W,levy6543,Vy Le,Vy Le,Learner,False,Learner_Gr4
+U01UMC08KL2,auslyn.nguyen,Vy Le,Minh-Thu Nguyen Hoang,Learner,False,Learner_Gr4
+U01UMC0N5U2,chuviethong.vn,Việt Hồng Chu,Việt Hồng Chu,Business Analyst,False,Learner_Gr1
+U01UMC2NCSW,t.hung2306,Tiến Hùng,Nguyễn Tiến Hung,Volunteer - Event team,False,Volunteer
+U01UMJ36QD9,tranquan030894,Quân Nguyễn,Quan Nguyễn,Volunteer - Event team,False,Learner_Gr4
+U01UMJ451V1,nganho124,Hồ Bảo Ngân,Hồ Bảo Ngan,Volunteer - Event team,False,Learner_Gr3
+U01UMJ4D5NX,dr.thuongnguyen,Thuong Nguyen,Thuong Nguyen,Volunteer - Event team,False,Mentor_Gr2
+U01UMJ4J38B,nguyenthithutram2413,Thuong Nguyen,TramNguyen,Volunteer - Event team,False,Mentor_Gr3
+U01UMJ5AQ0K,duongphannamhung,Dương Phan Nam Hưng,Dương Phan Nam Hưng,Volunteer - Event team,False,Learner_Gr1
+U01UQGZHSTZ,toantran2206,Toan Tran,Toan Tran,Learner_Grp2,False,Learner_Gr2
+U01USGKQ771,trang.ngo1709,Trang,Ngo Thi Minh Trang,Learner_Grp2,False,Learner_Gr1
+U01UTGRMGEQ,hanh.nguyenhong2511,Nguyen Hong Hanh,Nguyen Thi Hong Hanh,Learner_Gr4,False,Learner_Gr4
+U01UTGRP0HJ,phamtran30996,Tran Pham,Tran Pham,Learner_Gr4,False,Learner_Gr3
+U01UTGRQS9J,vukhanhlinh.3526,Linh Vu,Linh Vu,Learner_Gr4,False,Learner_Gr4
+U01UTGS5ZNY,ngocha.nt1476,Hà Nguyễn,Ha Nguyễn,Learner_Gr4,False,Learner_Gr2
+U01UTGT8CVA,ngttnguyen,Nguyễn Thảo Nguyên,Nguyễn Thao Nguyen,Learner_Gr4,False,Learner_Gr3
+U01UTGVPE7N,phuonghoaiftu2.k55,ntp-hoai,ntp-hoai,Learner_Gr4,False,Learner_Gr3
+U01UTQ4AVRS,sondaoxuan.aof,Sơn Đào Xuân,Sơn Dao Xuan,Learner_Gr4,False,
+U01V00JK9LH,dinhtuan3955,Đình Tuấn Phạm,Dinh Tuấn Phạm,Learner_Gr4,False,Learner_Gr2
+U01V00KHHHP,phuongttn50.hrc,Phuong Tran,Phuong Tran,Learner_Gr4,False,Learner_Gr3
+U01V00LQ7EV,nqlong,Nguyễn Quang Long,Nguyễn Quang Long,Mentor,False,Mentor_Gr3
+U01V00P4S2V,datvt19414c,Đạt Vũ Thành,Dạt Vu Thanh,Mentor,False,Learner_Gr4
+U01V082PLN5,huynhphuoc14111998,Phước Huỳnh,Phước Huỳnh,Mentor,False,Learner_Gr1
+U01V2NN1JFP,lengocmy713,Ngọc Mỹ Lê,Ngọc Mỹ Le,Mentor,False,
+U01V5TS96MR,github,Ngọc Mỹ Lê,GitHub,Mentor,True,
+U01VB632FPS,huynhanh.ha94,Anh Hà Văn Huỳnh,Anh Ha Van Huỳnh,Mentor,False,Learner_Gr4
+U01VB63LRNC,nguyenhuynhanhthu94,Nguyen Huynh Anh Thu,anh thu nguyen huynh,Mentor,False,Learner_Gr4
+U01VB6AT4G0,letam.brando,Nguyen Huynh Anh Thu,Le Thi Tam,Mentor,False,Learner_Gr1
+U01VBFY2E59,trangh,Gia Hoang Tran,Gia Hoang Tran,Mentor,False,Learner_Gr1
+U01VBGPP1EU,tranctan96,Tan Tran,Tan Trần,Mentor,False,Mentor_Gr2
+U020P6WPAQJ,thuynh.386,Tan Tran,Thuy Nguyen,Mentor,False,Mentor_Gr4
+U020P877V88,huongntn2202,Tan Tran,Huong Nguyen Thi Nhi,Mentor,False,
+U021NF9FMPH,ngochant,Tan Tran,ngochant,Mentor,True,
+U021TFMH1RU,mquang.151999,Quang Nguyen,Quang Nguyen,Mentor,False,
+U021Y57RMN1,lamlv723,Lâm Lê,Lam Le,Mentor,False,
+U02246KN5D1,conversationslist,Lâm Lê,/conversations.list,Mentor,True,
+U0226MQ73MJ,mad,Lâm Lê,MAD,Mentor,True,
+U022BEV3FEW,convhist,Lâm Lê,conv.hist,Mentor,True,
+U022J0SQAMQ,abc,Lâm Lê,abc,Mentor,True,
+U022R4885AN,78,Lâm Lê,78,Mentor,True,
+U0233KHLM2M,vuthanhdat.contact,Lâm Lê,Vuthanhdat Contact,Mentor,False,Learner_Gr4
+U023E0BAHQ8,testgettoken,Lâm Lê,test.gettoken,Mentor,True,
+U023G7HDUL8,ass4,Lâm Lê,Ass4,Mentor,True,
+U024A4CRKQC,contact.datacracy,DATAcracy,DATAcracy,Mentor,False,
