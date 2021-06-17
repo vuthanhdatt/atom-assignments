@@ -16,7 +16,7 @@ st.set_page_config(layout="centered",
 
 
 #SLACK_BEARER_TOKEN = os.environ.get('SLACK_BEARER_TOKEN') ## Get in setting of Streamlit Share
-SLACK_BEARER_TOKEN = st.secrets["TOKEN"]
+SLACK_BEARER_TOKEN = st.secrets["TOKEN"]    
 DTC_GROUPS_URL = ('https://raw.githubusercontent.com/anhdanggit/atom-assignments/main/data/datacracy_groups.csv')
 #st.write(json_data['SLACK_BEARER_TOKEN'])
 
@@ -286,9 +286,9 @@ elif option == 'All Group':
 
 period = st.slider(
     'Select a range of hours submit',
-    value=(time(00, 00), time(23, 59)))
+    0,23,(0,23))
 period = list(period)
-time_submit = submit_df['msg_time'].apply(lambda x: x.split(':')[0]).value_counts().sort_index()[period[0].hour:period[1].hour+1]
+time_submit = submit_df['msg_time'].apply(lambda x: x.split(':')[0]).value_counts().sort_index()[period[0]:period[1]+1]
 
 sns.set_style("ticks")
 bar = plt.figure()
